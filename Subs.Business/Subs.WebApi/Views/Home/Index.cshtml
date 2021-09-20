@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        .btn a {
+            color: white;
+            text-decoration: none
+        }
+
+        body {
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-center">
+        <h2>Welcome to MIMS!</h2>
+        <h3>We have a lot to on offer</h3>
+  
+        <div class="btn btn-success">
+            <p>@Html.ActionLink("Please sign in", "LoginForm")</p>
+
+            <p>@Html.ActionLink("Please register", "Register")</p>
+
+        </div>
+    </div>
+</body>
+</html>

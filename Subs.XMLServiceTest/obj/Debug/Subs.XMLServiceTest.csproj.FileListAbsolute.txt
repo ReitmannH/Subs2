@@ -1,0 +1,66 @@
+C:\CSharp\MIMS4\Subs.XMLServiceTest\bin\Debug\Subs.XMLServiceTest.exe.config
+C:\CSharp\MIMS4\Subs.XMLServiceTest\bin\Debug\Subs.XMLServiceTest.exe
+C:\CSharp\MIMS4\Subs.XMLServiceTest\bin\Debug\Subs.XMLServiceTest.pdb
+C:\CSharp\MIMS4\Subs.XMLServiceTest\bin\Debug\Subs.Business.dll
+C:\CSharp\MIMS4\Subs.XMLServiceTest\bin\Debug\Subs.Data.dll
+C:\CSharp\MIMS4\Subs.XMLServiceTest\bin\Debug\Subs.Business.pdb
+C:\CSharp\MIMS4\Subs.XMLServiceTest\bin\Debug\Subs.Business.dll.config
+C:\CSharp\MIMS4\Subs.XMLServiceTest\bin\Debug\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs.XMLServiceTest\bin\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.AssemblyReference.cache
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\MainWindow.g.cs
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\App.g.cs
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest_MarkupCompile.cache
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest_MarkupCompile.lref
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\MainWindow.baml
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.g.resources
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.Properties.Resources.resources
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.GenerateResource.cache
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.CopyComplete
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.exe
+C:\CSharp\MIMS4\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.pdb
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.XMLServiceTest.exe.config
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.XMLServiceTest.exe
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.XMLServiceTest.pdb
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Business.dll
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Data.dll
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Business.pdb
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Business.dll.config
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Data.pdb
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Data.dll.config
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.AssemblyReference.cache
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\MainWindow.g.cs
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\App.g.cs
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest_MarkupCompile.cache
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest_MarkupCompile.lref
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\MainWindow.baml
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.g.resources
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.Properties.Resources.resources
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.GenerateResource.cache
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.CoreCompileInputs.cache
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.CopyComplete
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.exe
+Q:\Source code backups\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.pdb
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.XMLServiceTest.exe.config
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.XMLServiceTest.exe
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.XMLServiceTest.pdb
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Business.dll
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Data.dll
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Business.pdb
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Business.dll.config
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Data.pdb
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\bin\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.AssemblyReference.cache
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\MainWindow.g.cs
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\App.g.cs
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest_MarkupCompile.cache
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest_MarkupCompile.lref
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\MainWindow.baml
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.g.resources
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.Properties.Resources.resources
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.GenerateResource.cache
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.csproj.CopyComplete
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.exe
+C:\CSharp\MIMS20210808\Subs.XMLServiceTest\obj\Debug\Subs.XMLServiceTest.pdb

@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MIMS3" Class="MIMSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=PKLWEBDB01\mssql2016std;Initial Catalog=MIMS3;Integrated Security=True;Enlist=False;Pooling=True;Max Pool Size=10;Connect Timeout=100" SettingsObjectName="Subs.Data.Properties.Settings" SettingsPropertyName="MIMSConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="" Member="SubscriptionOverlaps">
+    <Type Name="SubscriptionOverlap" Id="ID1">
+      <Column Name="SubscriptionId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="OverlapId" Type="System.Int32" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="CustomerInvoices">
+    <Type Name="CustomerInvoice">
+      <Column Name="InvoiceId" Storage="_VatInvoiceNumber" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="InvoiceValue" Type="System.Decimal" CanBeNull="false" />
+      <Column Name="Outstanding" Type="System.Decimal" CanBeNull="false" />
+      <Column Name="InvoiceDate" Type="System.DateTime" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="CustomerInvoices1">
+    <Type Name="CustomerInvoices">
+      <Column Name="Invoices" Type="List&lt;CustomerInvoice&gt;" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="InvoicesAndPayments">
+    <Type Name="InvoicesAndPayments" Id="ID4">
+      <Column Name="Operation" Type="System.String" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="InvoiceId" Storage="_Reference1" Type="System.Int32" CanBeNull="false" />
+      <Column Name="Reference2" Type="System.String" CanBeNull="false" />
+      <Column Name="Value" Type="System.Decimal" CanBeNull="false" />
+      <Column Name="InvoiceBalance" Type="System.Decimal" CanBeNull="false" />
+      <Column Name="StatementBalance" Type="System.Decimal" CanBeNull="false" />
+      <Column Name="TransactionId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="FirstRow" Type="System.Boolean" DbType="bit" CanBeNull="false" />
+      <Column Name="LastRow" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="OperationId" Type="System.Int32" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="SelectedSubscriptions">
+    <Type Name="SelectedSubscription" Id="ID5">
+      <Column Name="SubscriptionId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" CanBeNull="false" />
+      <Column Name="ProductName" Type="System.String" CanBeNull="false" />
+      <Column Name="UnitPrice" Type="System.Decimal" CanBeNull="false" />
+      <Column Name="NumberOfIssues" Type="System.Int32" CanBeNull="false" />
+      <Column Name="UnitsPerIssue" Type="System.Int32" CanBeNull="false" />
+      <Column Name="Value" Type="System.Decimal" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="LiabilityRecords">
+    <Type Name="LiabilityRecord" Id="ID3">
+      <Column Name="TransactionId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="Operation" Type="System.String" CanBeNull="false" />
+      <Column Name="InvoiceId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="SubscriptionId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="Value" Type="System.Decimal" CanBeNull="false" />
+      <Column Name="Balance" Type="System.Decimal" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="" Member="InvoiceIds">
+    <Type Name="InvoiceIds" Id="ID2">
+      <Column Name="InvoiceId" Type="System.Int32" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="DebitOrderProposals">
+    <Type Name="DebitOrderProposal" Id="ID11">
+      <Column Name="EmailAddress" Type="System.String" CanBeNull="false" />
+      <Column Name="AccountNo" Type="System.String" CanBeNull="false" />
+      <Column Name="AccountHolder" Type="System.String" CanBeNull="false" />
+      <Column Name="BankCode" Type="System.String" CanBeNull="false" />
+      <Column Name="Bank" Type="System.String" CanBeNull="false" />
+      <Column Name="CustomerId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="ProductName" Type="System.String" CanBeNull="false" />
+      <Column Name="SubscriptionId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="IssueId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="IssueDescription" Type="System.String" CanBeNull="false" />
+      <Column Name="Classification" Type="System.String" CanBeNull="false" />
+      <Column Name="Subtract" Type="System.Decimal" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="Dormants">
+    <Type Name="Dormant" Id="ID6">
+      <Column Name="SubscriptionId" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LastDeliveryDate" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="ProductName" Type="System.String" CanBeNull="false" />
+      <Column Name="Payer" Type="System.Int32" CanBeNull="false" />
+      <Column Name="Liability" Type="System.Decimal" CanBeNull="false" />
+      <Column Name="LastSequenceByProduct" Type="System.Int32" CanBeNull="false" />
+      <Column Name="LastSequencebySubscription" Type="System.Int32" CanBeNull="false" />
+      <Column Name="LagByIssues" Type="System.Int32" CanBeNull="false" />
+      <Column Name="DeliverableIssueId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="DeliverableIssueName" Type="System.String" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="InvoiceRaws">
+    <Type Name="InvoiceRaw" Id="ID7">
+      <Column Name="PayerId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="EMailAddress" Type="System.String" CanBeNull="false" />
+      <Column Name="SubscriptionId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="TransactionId" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="Customers">
+    <Type Name="Customer" Id="ID8">
+      <Column Name="CustomerId" Type="System.Int32" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="Invoices">
+    <Type Name="Invoice" Id="ID9">
+      <Column Name="InvoiceId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="PayerId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="SubscriptionId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="DateFrom" Type="System.DateTime" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="DOCashBooks">
+    <Type Name="DOCashBook" Id="ID13">
+      <Column Name="ProductName" Type="System.String" CanBeNull="false" />
+      <Column Name="Amount" Type="System.Decimal" CanBeNull="false" />
+      <Column Name="Nationality" Type="System.String" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="SBCashBooks">
+    <Type Name="SBCashBook" Id="ID12">
+      <Column Name="StatementNo" Type="System.Int32" CanBeNull="false" />
+      <Column Name="StatementDate" Type="System.DateTime" CanBeNull="false" />
+      <Column Name="BankTransactionType" Type="System.String" CanBeNull="false" />
+      <Column Name="Amount" Type="System.Decimal" CanBeNull="false" />
+      <Column Name="BankPaymentMethod" Type="System.String" CanBeNull="false" />
+      <Column Name="Reference" Type="System.String" CanBeNull="false" />
+      <Column Name="PaymentType" Type="System.String" CanBeNull="false" />
+      <Column Name="ProductName" Type="System.String" CanBeNull="true" />
+      <Column Name="Payment" Type="System.Decimal" CanBeNull="true" />
+      <Column Name="Nationality" Type="System.String" CanBeNull="false" />
+      <Column Name="AllocationNo" Type="System.Decimal" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="CreditNotes">
+    <Type Name="CreditNote" Id="ID10">
+      <Column Name="CreditNoteName" Type="System.String" CanBeNull="false" />
+      <Column Name="CreditNoteValue" Type="System.Decimal" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="Subscriptions">
+    <Type Name="Subscription" Id="ID14">
+      <Column Name="SubscriptionId" Type="System.Int32" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="PayerDeriveds">
+    <Type Name="PayerDerived" Id="ID17">
+      <Column Name="PayerId" Storage="_SubscriptionId" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PayerCompany" Type="System.String" CanBeNull="false" />
+      <Column Name="PayerCountryId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="PayerSurname" Type="System.String" CanBeNull="false" />
+      <Column Name="PayerPhoneNumber" Type="System.String" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="ReceiverDeriveds">
+    <Type Name="ReceiverDerived" Id="ID18">
+      <Column Name="ReceiverId" Storage="_SubscriptionId" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ReceiverSurname" Type="System.String" CanBeNull="false" />
+      <Column Name="ReceiverCompany" Type="System.String" CanBeNull="false" />
+      <Column Name="ReceiverDepartment" Type="System.String" CanBeNull="false" />
+      <Column Name="ReceiverCountryId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="ReceiverEmail" Type="System.String" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="WebProductAdditions">
+    <Type Name="WebProductAddition" Id="ID15">
+      <Column Name="ProductId" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CPDEnabled" Type="System.Boolean" CanBeNull="false" />
+      <Column Name="Price" Type="System.Decimal" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="" Member="InvoiceSpecifications">
+    <Type Name="InvoiceSpecification" Id="ID16">
+      <Column Name="SubscriptionId" Type="System.Int32" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="" Member="PayerId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="EmailAddress" Type="System.String" CanBeNull="false" />
+      <Column Name="TransactionId" Type="System.Int32" CanBeNull="false" />
+      <Column Name="InvoiceId" Type="System.Int32" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.[MIMS.SubscriptionData.SubscriptionOverlapPrime]" Method="MIMS_SubscriptionData_SubscriptionOverlapPrime">
+    <ElementType Name="MIMS_SubscriptionData_SubscriptionOverlapPrimeResult">
+      <Column Name="OverlapId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionData.SubscriptionOverlap]" Method="MIMS_SubscriptionData_SubscriptionOverlap">
+    <Parameter Name="Receiver" Parameter="receiver" Type="System.Int32" DbType="Int" />
+    <Parameter Name="StartIssue" Parameter="startIssue" Type="System.Int32" DbType="Int" />
+    <Parameter Name="LastIssue" Parameter="lastIssue" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID1" />
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionBiz.ProposeLastIssue]" Method="MIMS_SubscriptionBiz_ProposeLastIssue">
+    <Parameter Name="ProductId" Parameter="productId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="StartSequence" Parameter="startSequence" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_SubscriptionBiz_ProposeLastIssueResult">
+      <Column Name="LastIssue" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LastSequence" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.LedgerDoc.CreditNoteBatch.Load]" Method="MIMS_LedgerDoc_CreditNoteBatch_Load">
+    <ElementType Name="MIMS_LedgerDoc_CreditNoteBatch_LoadResult">
+      <Column Name="PayerId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SubscriptionId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UnitPrice" Type="System.Decimal" DbType="Decimal(12,6) NOT NULL" CanBeNull="false" />
+      <Column Name="UnitsLess" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="InvoiceNumber" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="CreditnoteNumber" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="Explanation" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="EmailAddress" Type="System.String" DbType="NVarChar(80)" CanBeNull="true" />
+      <Column Name="InvoiceEmail" Type="System.String" DbType="NVarChar(80)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionDoc.SubscriptionIssue.Reverseables]" Method="MIMS_SubscriptionDoc_SubscriptionIssue_Reverseables">
+    <Parameter Name="PayerId" Parameter="payerId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_SubscriptionDoc_SubscriptionIssue_ReverseablesResult">
+      <Column Name="IssueId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SubscriptionId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IssueDescription" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DateFrom" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EndDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Value" Type="System.Decimal" DbType="Decimal(23,6)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.CustomerData.GetInvoicesFromPayment]" Method="MIMS_CustomerData_GetInvoicesFromPayment">
+    <Parameter Name="PaymentTransactionId" Parameter="paymentTransactionId" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID2" />
+  </Function>
+  <Function Name="dbo.[MIMS.InvoicePayment.DeleteByPaymentTransactionId]" Method="MIMS_InvoicePayment_DeleteByPaymentTransactionId">
+    <Parameter Name="PaymentTransactionId" Parameter="paymentTransactionId" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.[MIMS.InvoicePayment.Insert]" Method="MIMS_InvoicePayment_Insert">
+    <Parameter Name="InvoiceId" Parameter="invoiceId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="PaymentTransactionId" Parameter="paymentTransactionId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Amount" Parameter="amount" Type="System.Decimal" DbType="Decimal(16,6)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.[MIMS.DataContext.Deliveries]" Method="MIMS_DataContext_Deliveries">
+    <Parameter Name="PayerId" Parameter="payerId" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID3" />
+  </Function>
+  <Function Name="dbo.[MIMS.DataContext.InvoicesAndPayments]" Method="MIMS_DataContext_InvoicesAndPayments">
+    <Parameter Name="PayerId" Parameter="payerId" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID4" />
+  </Function>
+  <Function Name="dbo.[MIMS.DataContext.SubscriptionsByInvoice]" Method="MIMS_DataContext_SubscriptionsByInvoice">
+    <Parameter Name="InvoiceId" Parameter="invoiceId" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID5" />
+  </Function>
+  <Function Name="dbo.[MIMS.DataContext.SubscriptionsByDate]" Method="MIMS_DataContext_SubscriptionsByDate">
+    <Parameter Name="DateFrom" Parameter="dateFrom" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="PayerId" Parameter="payerId" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID5" />
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionData.DestroySubscription]" Method="MIMS_SubscriptionData_DestroySubscription">
+    <Parameter Name="SubscriptionId" Parameter="subscriptionId" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionData.NextIssue]" Method="MIMS_SubscriptionData_NextIssue">
+    <Parameter Name="IssueId" Parameter="issueId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_SubscriptionData_NextIssueResult">
+      <Column Name="" Member="Column1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.DeliveryDataStatic.Dormants]" Method="MIMS_DeliveryDataStatic_Dormants">
+    <ElementType IdRef="ID6" />
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionBiz.Authorize]" Method="MIMS_SubscriptionBiz_Authorize">
+    <Parameter Name="ProductId" Parameter="productId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ReceiverId" Parameter="receiverId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_SubscriptionBiz_AuthorizeResult">
+      <Column Name="Seats" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Reason" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ExpirationDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.InvoicePayment.DeleteByInvoiceId]" Method="MIMS_InvoicePayment_DeleteByInvoiceId">
+    <Parameter Name="InvoiceId" Parameter="invoiceId" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.[MIMS.InvoiceData.Generate]" Method="MIMS_InvoiceData_Generate">
+    <Parameter Name="FromTransactionId" Parameter="fromTransactionId" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID7" />
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionBiz.SetInitialValues]" Method="MIMS_SubscriptionBiz_SetInitialValues">
+    <Parameter Name="PayerId" Parameter="payerId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ReceiverId" Parameter="receiverId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ProductId" Parameter="productId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="DateFrom" Parameter="dateFrom" Type="System.DateTime" DbType="DateTime" />
+    <ElementType Name="MIMS_SubscriptionBiz_SetInitialValuesResult">
+      <Column Name="PayerCountry" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Weight" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="NumberOfIssues" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DeliveryMethod" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="BaseRate" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="VatRate" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="StartIssue" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StartSequence" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LastIssue" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LastSequence" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DeliveryAddressId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.DataContext.Customer.Select]" Method="MIMS_DataContext_Customer_Select">
+    <Parameter Name="Type" Parameter="type" Type="System.String" DbType="NVarChar(20)" />
+    <Parameter Name="IntegerId" Parameter="integerId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="StringId" Parameter="stringId" Type="System.String" DbType="NVarChar(80)" />
+    <ElementType IdRef="ID8" />
+  </Function>
+  <Function Name="dbo.[MIMS.InvoiceControl.LoadInvoice]" Method="MIMS_InvoiceControl_LoadInvoice">
+    <Parameter Name="InvoiceId" Parameter="invoiceId" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID9" />
+  </Function>
+  <Function Name="dbo.[MIMS.PaymentData.DuplicateSBRow]" Method="MIMS_PaymentData_DuplicateSBRow">
+    <Parameter Name="TransactionDate" Parameter="transactionDate" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="Amount" Parameter="amount" Type="System.Decimal" DbType="Decimal(18,6)" />
+    <Parameter Name="Reference" Parameter="reference" Type="System.String" DbType="NVarChar(40)" />
+    <Parameter Name="StatementNo" Parameter="statementNo" Type="System.Int32" DbType="Int" />
+    <Parameter Name="AllocationNo" Parameter="allocationNo" Type="System.Decimal" DbType="Decimal(4,1)" />
+    <ElementType Name="MIMS_PaymentData_DuplicateSBRowResult">
+      <Column Name="" Member="Column1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.LedgerData.ReversePaymentCheck]" Method="MIMS_LedgerData_ReversePaymentCheck">
+    <Parameter Name="PaymentTransactionId" Parameter="paymentTransactionId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_LedgerData_ReversePaymentCheckResult">
+      <Column Name="" Member="Column1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.IssueBiz.GetIssueId]" Method="MIMS_IssueBiz_GetIssueId">
+    <Parameter Name="ProductId" Parameter="productId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SequenceNumber" Parameter="sequenceNumber" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_IssueBiz_GetIssueIdResult">
+      <Column Name="" Member="Column1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.IssueBiz.GetSequenceNumber]" Method="MIMS_IssueBiz_GetSequenceNumber">
+    <Parameter Name="IssueId" Parameter="issueId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_IssueBiz_GetSequenceNumberResult">
+      <Column Name="" Member="Column1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionData.CreditNote]" Method="MIMS_SubscriptionData_CreditNote">
+    <Parameter Name="SubscriptionId" Parameter="subscriptionId" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID10" />
+  </Function>
+  <Function Name="dbo.[MIMS.DataContext.DebitOrder.Proposal]" Method="MIMS_DataContext_DebitOrder_Proposal">
+    <Parameter Name="DeliveryMonthFirstDay" Parameter="deliveryMonthFirstDay" Type="System.DateTime" DbType="DateTime" />
+    <ElementType IdRef="ID11" />
+  </Function>
+  <Function Name="dbo.[MIMS.PaymentData.SBCashbook]" Method="MIMS_PaymentData_SBCashbook">
+    <Parameter Name="Month" Parameter="month" Type="System.DateTime" DbType="DateTime" />
+    <ElementType IdRef="ID12" />
+  </Function>
+  <Function Name="dbo.[MIMS.PaymentData.DOCashbook]" Method="MIMS_PaymentData_DOCashbook">
+    <Parameter Name="Month" Parameter="month" Type="System.DateTime" DbType="DateTime" />
+    <ElementType IdRef="ID13" />
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionData.FillById]" Method="MIMS_SubscriptionData_FillById">
+    <Parameter Name="Type" Parameter="type" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="Id1" Parameter="id1" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Id2" Parameter="id2" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID14" />
+  </Function>
+  <Function Name="dbo.[MIMS.InvoiceData.ActiveSubscriptionsBefore]" Method="MIMS_InvoiceData_ActiveSubscriptionsBefore">
+    <Parameter Name="DateFrom" Parameter="dateFrom" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="PayerId" Parameter="payerId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_InvoiceData_ActiveSubscriptionsBeforeResult">
+      <Column Name="" Member="Column1" Type="System.Decimal" DbType="Decimal(38,6)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.DeliveryDataStatic.DeliverableElectronic]" Method="MIMS_DeliveryDataStatic_DeliverableElectronic">
+    <Parameter Name="ReceiverId" Parameter="receiverId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_DeliveryDataStatic_DeliverableElectronicResult">
+      <Column Name="PayerId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Liability" Type="System.Decimal" DbType="Decimal(18,6)" CanBeNull="true" />
+      <Column Name="SubscriptionId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IssueId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UnitPrice" Type="System.Decimal" DbType="Decimal(12,6) NOT NULL" CanBeNull="false" />
+      <Column Name="UnitsPerIssue" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.ProducData.WebAddition]" Method="MIMS_ProducData_WebAddition">
+    <ElementType IdRef="ID15" />
+  </Function>
+  <Function Name="dbo.[MIMS.LedgerData.LoadInvoiceBatch]" Method="MIMS_LedgerData_LoadInvoiceBatch">
+    <Parameter Name="Type" Parameter="type" Type="System.String" DbType="NVarChar(20)" />
+    <Parameter Name="Id" Parameter="id" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID16" />
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionData.DerivedPayer.FillById]" Method="MIMS_SubscriptionData_DerivedPayer_FillById">
+    <Parameter Name="CustomerId" Parameter="customerId" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID17" />
+  </Function>
+  <Function Name="dbo.[MIMS.SubscriptionData.DerivedReceiver.FillById]" Method="MIMS_SubscriptionData_DerivedReceiver_FillById">
+    <Parameter Name="CustomerId" Parameter="customerId" Type="System.Int32" DbType="Int" />
+    <ElementType IdRef="ID18" />
+  </Function>
+</Database>

@@ -1,0 +1,302 @@
+﻿@model Subs.MimsWeb.Models.UserTemplate
+
+@{
+    ViewBag.Title = "Account";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="/Scripts/jquery-3.4.1.js"></script>
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+    @*<link href="~/Content/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" type="text/css">
+    <link href="~/Content/Styles.css" rel="stylesheet" type="text/css">*@
+
+    <title>@ViewBag.Title</title>
+
+    <style type="text/css">
+        label {
+            display: inline-block;
+            width: 200px;
+            font-family: Arial;
+        }
+
+        .dataElem {
+            margin: 0.5em 0.5em 0.5em 1em;
+        }
+
+            .dataElem input {
+                width: 30em;
+            }
+
+            .dataElem select {
+                width: 30em;
+            }
+
+        .myButtons li {
+            display: inline;
+        }
+
+        .myButtons button {
+            margin: 1em 0em 0em -0.8em;
+            display: inline;
+            padding: 0px 7px 1px 7px;
+            border-radius: 10px;
+            text-decoration: none;
+            text-shadow: none;
+            font-family: Titillium, Arial, sans-serif;
+            font-weight: 700;
+            color: white;
+            text-transform: capitalize;
+            font-size: 0.8em;
+            letter-spacing: .1em;
+            background-color: dodgerblue;
+        }
+
+        .myButtons a {
+            margin: 2em 0em 0em 10.5em;
+            display: inline;
+            padding: 0px 7px 1px 7px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-family: Titillium, Arial, sans-serif;
+            font-weight: 700;
+            color: white;
+            text-transform: capitalize;
+            font-size: 0.8em;
+            letter-spacing: .1em;
+            background-color: dodgerblue;
+        }
+
+        .validation-summary-errors li {
+            font-family: Arial;
+            margin: 1em 0em 0em 1em;
+            color: red;
+        }
+    </style>
+
+
+</head>
+<body>
+
+    @Html.Partial("Heading")
+
+    <div style="margin-top:2em;">
+
+        @using (Html.BeginForm())
+        {
+            <p style="font-family: Arial; margin:2em 0em 2em 1em; color:red; ">
+                @Html.ViewBag.Message
+            </p>
+
+            <p>
+                @Html.ValidationSummary()
+            </p>
+
+            <div style="margin-top: 1em;">
+                <table>
+                    <tr>
+                        <td>
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.CustomerId)
+                                @Html.DisplayFor(x => x.CustomerId)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.TitleId)
+                                @Html.DropDownListFor(x => x.TitleId, @Model.TitleSelectList)
+                            </div>
+
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.Initials)
+                                @Html.EditorFor(x => x.Initials)
+                            </div>
+
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.FirstName)
+                                @Html.EditorFor(x => x.FirstName)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.Surname)
+                                @Html.EditorFor(x => x.Surname)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.CellPhoneNumber)
+                                @Html.EditorFor(x => x.CellPhoneNumber)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.PhoneNumber)
+                                @Html.EditorFor(x => x.PhoneNumber)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.EmailAddress)
+                                @Html.EditorFor(x => x.EmailAddress)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.Label("CompanyName")
+                                @Html.EditorFor(x => x.CompanyNaam)
+                              </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.Address1)
+                                @Html.EditorFor(x => x.Address1)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.Address2)
+                                @Html.EditorFor(x => x.Address2)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.Address3)
+                                @Html.EditorFor(x => x.Address3)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.Address4)
+                                @Html.EditorFor(x => x.Address4)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.CountryId)
+                                @Html.DropDownListFor(x => x.CountryId, @Model.CountrySelectList)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.Address5)
+                                @Html.EditorFor(x => x.Address5)
+                            </div>
+
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.Password)
+                                @Html.PasswordFor(x => x.Password)
+                            </div>
+
+                            <div class="dataElem">
+                                @Html.LabelFor(x => x.ConfirmedPassword)
+                                @Html.PasswordFor(x => x.ConfirmedPassword)
+                            </div>
+                        </td>
+
+                        <td>
+                            <div class="dataElem">
+                                <label>Classification 1</label>
+                                @Html.DropDownListFor(x => x.Classification1Id, @Model.Classification1SelectList, new { onchange = "SetCategory2(this)" })
+                            </div>
+                            <div class="dataElem">
+                                <label>Classification 2</label>
+                                @Html.DropDownListFor(x => x.Classification2Id, @Model.Classification2SelectList)
+                            </div>
+
+                            <div class="dataElem">
+                                <table>
+                                    <tr>
+                                        <td><label>Council number</label></td>
+                                        <td>@Html.EditorFor(x => x.CouncilNumber)</td>
+                                    </tr>
+                                </table>
+                                </div>
+
+                                <fieldset style="margin: 1em 0em 0em 0.6em;">
+                                    <legend>Physical address used for delivery and on invoice</legend>
+
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.Province)
+                                        @Html.EditorFor(x => x.Province)
+                                    </div>
+
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.City)
+                                        @Html.EditorFor(x => x.City)
+                                    </div>
+
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.Suburb)
+                                        @Html.EditorFor(x => x.Suburb)
+                                    </div>
+
+
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.Street)
+                                        @Html.EditorFor(x => x.Street)
+                                    </div>
+
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.StreetExtension)
+                                        @Html.EditorFor(x => x.StreetExtension)
+                                    </div>
+
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.StreetSuffix)
+                                        @Html.EditorFor(x => x.StreetSuffix)
+                                    </div>
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.StreetNo)
+                                        @Html.EditorFor(x => x.StreetNo)
+                                    </div>
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.Building)
+                                        @Html.EditorFor(x => x.Building)
+                                    </div>
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.Floor)
+                                        @Html.EditorFor(x => x.Floor)
+                                    </div>
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.Room)
+                                        @Html.EditorFor(x => x.Room)
+                                    </div>
+                                    <div class="dataElem">
+                                        @Html.LabelFor(x => x.PostCode)
+                                        @Html.EditorFor(x => x.PostCode)
+                                    </div>
+                                </fieldset>
+                        </td>
+                </tr>
+                </table>
+
+                <div class="myButtons">
+                    <ul>
+                        <li><button type="submit">Submit</button></li>
+
+                    </ul>
+                </div>
+            </div>
+
+        }
+    </div>
+   <script>
+       function SetCategory2(p)
+       {
+           $('#Classification2Id').empty();
+           $.ajax({
+               url: '/home/classifications',
+               data: { "ParentClassificationId": p.value },
+               type: 'get',
+               dataType: 'json',
+               success: function (data) {
+                   $('#Classification2Id').append(new Option("Please select a profession", "", true, true));
+                   $.each(data, function (index, value) {
+                      $('#Classification2Id').append(new Option(value.Value, value.Key, false, false));
+                   });
+               }
+           });
+       }
+   </script>
+</body>
+</html>

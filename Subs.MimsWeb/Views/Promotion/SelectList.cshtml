@@ -1,0 +1,104 @@
+﻿@using Subs.MimsWeb.Models
+@using Subs.Data
+@model ProductSelector
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SelectList</title>
+
+    <Style>
+        .myButton {
+            margin: 2em 0em 0em 1em;
+            display: block;
+            padding: 3px 7px 1px 7px;
+            border-radius: 10px;
+            border-color: dodgerblue;
+            text-decoration: none;
+            font-family: Titillium, Arial, sans-serif;
+            font-weight: 700;
+            color: white;
+            font-size: 0.8em;
+            letter-spacing: .1em;
+            background-color: dodgerblue;
+        }
+
+        td {
+            padding:10px 10px 10px 10px;
+            font-family: Arial;
+            font-size: 14px;
+            color: green
+        }
+
+        th {
+            font-family: Arial;
+            font-size: 14px;
+            color: royalblue;
+        }
+
+    </Style>
+
+
+</head>
+<body>
+    @Html.Partial("Heading")
+
+    <p style="padding:1em 1em 1em 1em; color: red;">
+        @Html.ViewBag.Message
+    </p>
+
+    @using (Html.BeginForm("SelectList", "Promotion"))
+    {
+<fieldset>
+    <table style="margin-left: 0.5em;">
+        <tr>
+            <th align="left">Subject area</th>
+            <th align="left">Delivery medium</th>
+            <th align="left">Contract type</th>
+        </tr>
+        @{
+            <tr>
+                <td>
+                    <select id="Category" name="Category">
+                        <option value='1'>@Enum.GetName(typeof(ProductCategory), 1)</option>
+                        <option value='2'>@Enum.GetName(typeof(ProductCategory), 2)</option>
+                        <option value='3'>@Enum.GetName(typeof(ProductCategory), 3)</option>
+
+                    </select>
+                </td>
+                <td>
+                    <select id="Medium" name="Medium">
+                        <option value='1'>@Enum.GetName(typeof(SubscriptionMedium), 1)</option>
+                        <option value='2'>@Enum.GetName(typeof(SubscriptionMedium), 2)</option>
+                        <option value='3'>@Enum.GetName(typeof(SubscriptionMedium), 3)</option>
+                    </select>
+                </td>
+                <td>
+                    <select id="Type" name="Type">
+                        <option value='1'>@Enum.GetName(typeof(SubscriptionType), 1)</option>
+                        <option value='2'>@Enum.GetName(typeof(SubscriptionType), 2)</option>
+                        <option value='3'>@Enum.GetName(typeof(SubscriptionType), 3)</option>
+                    </select>
+                </td>
+            </tr>
+        }
+    </table>
+    <br />
+    <br />
+    <p style="font-family:Arial;font-size:20px; margin: 1em 0 0 1em">Human medicine comparison</p>
+    <div>
+        @*Display this if medicines have been selected. Use JQuery.*@
+        @Html.Partial("Medicine");
+    </div>
+    <input class="myButton" type="submit" value="List the products satisfying these criteria" />
+</fieldset>
+    }
+   
+</body>
+</html>

@@ -1,0 +1,696 @@
+E:\MIMS4\Subs4.Presentation\bin\Debug\SubscriptionsAndPayments.rdlc
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.pdb
+E:\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Presentation.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Invoice.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.CreditNote.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Statement.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.pdb
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.dll.config
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.pdb
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.dll.config
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Presentation.pdb
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Presentation.dll.config
+E:\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Invoice.pdb
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Invoice.dll.config
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.CreditNote.pdb
+E:\MIMS4\Subs4.Presentation\bin\Debug\Subs.Statement.pdb
+E:\MIMS4\Subs4.Presentation\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs4.Presentation\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csprojAssemblyReference.cache
+E:\MIMS4\Subs4.Presentation\obj\Debug\CorrespondenceControl.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\CountryControl.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\DeliveryAddress2.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\DeliveryAddressAdministration.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\ElicitNumber.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\ElicitString.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\EnumControl.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\PackageCapture.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\PostCodeUserControl.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\Reverse delivery.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\Test.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\PostCode.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\Window1.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\AddressTypeControl.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\Administration.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\CompanyControl2.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\CorrespondenceControl.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\CountryControl.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\CustomerPicker3.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\DebitOrder.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\Deliver.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\DeliveryAddress2.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\DeliveryAddressAdministration.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\ElicitNumber.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\ElicitString.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\EnumControl.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\PackageCapture.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\Payment.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\PaymentAllocation.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\PostCodeQuery.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\PostCodeUserControl.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\Reverse delivery.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionCapture.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionPicker2.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\Test.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDetailControl.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\PostCode.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\Window1.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.cache
+E:\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.lref
+E:\MIMS4\Subs4.Presentation\obj\Debug\AddressTypeControl.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\Administration.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\CompanyControl2.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\CustomerPicker3.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\DebitOrder.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\Deliver.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\Payment.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\PaymentAllocation.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\PostCodeQuery.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionCapture.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionPicker2.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDetailControl.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.baml
+E:\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.g.resources
+E:\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.Properties.Resources.resources
+E:\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.GenerateResource.cache
+E:\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CoreCompileInputs.cache
+E:\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CopyComplete
+E:\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.dll
+E:\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.pdb
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\SubscriptionsAndPayments.rdlc
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.pdb
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Presentation.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Invoice.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.CreditNote.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Statement.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.pdb
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.dll.config
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.pdb
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.dll.config
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Presentation.pdb
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Presentation.dll.config
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Invoice.pdb
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Invoice.dll.config
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.CreditNote.pdb
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.CreditNote.dll.config
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Statement.pdb
+C:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Statement.dll.config
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csprojResolveAssemblyReference.cache
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CorrespondenceControl.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CountryControl.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DeliveryAddress2.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\ElicitNumber.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\ElicitString.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\EnumControl2.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\EnumControl.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PostCodeUserControl.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Reverse delivery.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Test.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PostCode.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Window1.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AddressTypeControl.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Administration.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CompanyControl2.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CorrespondenceControl.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CountryControl.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerPicker3.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DebitOrder.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Deliver.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DeliveryAddress2.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\ElicitNumber.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\ElicitString.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\EnumControl2.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\EnumControl.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Payment.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PaymentAllocation.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PostCodeQuery.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PostCodeUserControl.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Reverse delivery.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionsCapture.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionCapture2.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionPicker2.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Test.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDetailControl.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PostCode.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Window1.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.cache
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.lref
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AddressTypeControl.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Administration.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CompanyControl2.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerPicker3.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DebitOrder.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Deliver.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Payment.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PaymentAllocation.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PostCodeQuery.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionsCapture.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionCapture2.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionPicker2.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDetailControl.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.g.resources
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.Properties.Resources.resources
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.GenerateResource.Cache
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CoreCompileInputs.cache
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.dll
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.pdb
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationProduct.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate2.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DeliveryOptionsControl.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SAPOTemplate.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationProduct.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate2.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DeliveryOptionsControl.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SAPOTemplate.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationDeliveryAddress.baml
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationDeliveryAddress.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationPromotion.g.cs
+C:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationPromotion.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\SubscriptionsAndPayments.rdlc
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.pdb
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Presentation.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Invoice.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.CreditNote.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Statement.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.pdb
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.dll.config
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.pdb
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.dll.config
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Presentation.pdb
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Presentation.dll.config
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Invoice.pdb
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Invoice.dll.config
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.CreditNote.pdb
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.CreditNote.dll.config
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Statement.pdb
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\Subs.Statement.dll.config
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CorrespondenceControl.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CountryControl.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DeliveryAddress2.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationDeliveryAddress.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\ElicitNumber.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\ElicitString.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\EnumControl2.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\EnumControl.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PostCodeUserControl.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Reverse delivery.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Test.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Window1.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AddressTypeControl.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Administration.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationProduct.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationPromotion.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CompanyControl2.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CorrespondenceControl.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CountryControl.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerPicker3.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate2.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DebitOrder.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Deliver.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DeliveryAddress2.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationDeliveryAddress.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DeliveryOptionsControl.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\ElicitNumber.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\ElicitString.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\EnumControl2.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\EnumControl.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Payment.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PaymentAllocation.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PostCodeUserControl.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Reverse delivery.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SAPOTemplate.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionCapture2.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionPicker2.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionsCapture.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Test.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDetailControl.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Window1.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.cache
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.lref
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AddressTypeControl.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Administration.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationProduct.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationPromotion.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CompanyControl2.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerPicker3.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate2.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DebitOrder.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Deliver.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\DeliveryOptionsControl.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Payment.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\PaymentAllocation.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SAPOTemplate.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionCapture2.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionPicker2.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionsCapture.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDetailControl.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.g.resources
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.Properties.Resources.resources
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.GenerateResource.Cache
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CoreCompileInputs.cache
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.dll
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.pdb
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csprojAssemblyReference.cache
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Document.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\bin\Debug\INVTemplate.xlsx
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Document.baml
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CopyComplete
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationPostCode.g.cs
+D:\CSharp2017\MIMS4\Subs4.Presentation\obj\Debug\AdministrationPostCode.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Subs4.Presentation.pdb
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\FlowDocumentConverter.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\PdfSharp-WPF.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\PdfSharp.Xps.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Spire.License.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Spire.Pdf.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Business.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Data.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Microsoft.mshtml.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Business.pdb
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Business.dll.config
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Data.pdb
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Data.dll.config
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Spire.License.xml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\Spire.Pdf.xml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.AssemblyReference.cache
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitDecimal.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitDate.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitRichText.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CorrespondenceControl.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CountryControl.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\DeliveryAddress2.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationDeliveryAddress.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitInteger.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitString.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AddressTypeControl.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationCountry.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationCompany.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationProduct.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationPromotion.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ClassificationControl.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ClassificationPicker.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CreditNote.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerClassification.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\DebitOrderBankStatement.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitDecimal.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitDate.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitEnumSingle.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitRichText.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SBBankStatement.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\FNBBankStatement.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CompanyControl2.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CorrespondenceControl.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CountryControl.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerPicker3.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerUpdate2.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Deliver.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\DeliveryAddress2.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationDeliveryAddress.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\DeliveryOptionsControl.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Document.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitInteger.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitString.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\InvoiceControl.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\IssuePicker2.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Maintenance.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\PaymentAllocation.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationPostCode.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ProForma2.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\StatementControl2.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionCaptureChange.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionDetailControl2.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionPicker2.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionsCapture.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionStatusDisplayContro2.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionStatusPrintControl.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.cache
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.lref
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AddressTypeControl.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationCountry.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationCompany.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationProduct.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationPromotion.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ClassificationControl.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ClassificationPicker.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CreditNote.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerClassification.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\DebitOrderBankStatement.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitEnumSingle.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SBBankStatement.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\FNBBankStatement.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CompanyControl2.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerPicker3.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerUpdate2.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Deliver.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\DeliveryOptionsControl.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Document.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\InvoiceControl.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\IssuePicker2.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Maintenance.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\PaymentAllocation.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationPostCode.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\ProForma2.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\StatementControl2.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionCaptureChange.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionDetailControl2.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionPicker2.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionsCapture.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionStatusDisplayContro2.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionStatusPrintControl.baml
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.g.resources
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.Properties.Resources.resources
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.GenerateResource.cache
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CoreCompileInputs.cache
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CopyComplete
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.dll
+Q:\Source code backups\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.pdb
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Subs4.Presentation.pdb
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\FlowDocumentConverter.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\PdfSharp-WPF.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\PdfSharp.Xps.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Spire.License.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Spire.Pdf.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Business.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Data.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Microsoft.mshtml.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Business.pdb
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Business.dll.config
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Data.pdb
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Spire.License.xml
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\Spire.Pdf.xml
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.AssemblyReference.cache
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitDecimal.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitDate.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitRichText.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CorrespondenceControl.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CountryControl.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\DeliveryAddress2.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationDeliveryAddress.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitInteger.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitString.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AddressTypeControl.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationCountry.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationCompany.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationProduct.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationPromotion.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ClassificationControl.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ClassificationPicker.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CreditNote.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerClassification.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\DebitOrderBankStatement.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitDecimal.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitDate.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitEnumSingle.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitRichText.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SBBankStatement.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\FNBBankStatement.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CompanyControl2.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CorrespondenceControl.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CountryControl.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerPicker3.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerUpdate2.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Deliver.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\DeliveryAddress2.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationDeliveryAddress.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\DeliveryOptionsControl.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Document.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitInteger.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitString.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\InvoiceControl.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\IssuePicker2.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Maintenance.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\PaymentAllocation.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationPostCode.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ProForma2.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\StatementControl2.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionCaptureChange.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionDetailControl2.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionPicker2.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionsCapture.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionStatusDisplayContro2.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionStatusPrintControl.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.cache
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.lref
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AddressTypeControl.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationCountry.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationCompany.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationProduct.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationPromotion.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ClassificationControl.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ClassificationPicker.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CreditNote.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerClassification.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\DebitOrderBankStatement.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ElicitEnumSingle.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SBBankStatement.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\FNBBankStatement.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CompanyControl2.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerPicker3.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerUpdate2.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Deliver.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\DeliveryOptionsControl.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Document.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\InvoiceControl.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\IssuePicker2.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Maintenance.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\PaymentAllocation.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\AdministrationPostCode.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\ProForma2.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\StatementControl2.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionCaptureChange.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionDetailControl2.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionPicker2.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionsCapture.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionStatusDisplayContro2.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\SubscriptionStatusPrintControl.baml
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.g.resources
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.Properties.Resources.resources
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.GenerateResource.cache
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CopyComplete
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.dll
+C:\CSharp\MIMS20210808\Subs4.Presentation\obj\Debug\Subs4.Presentation.pdb
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Subs4.Presentation.pdb
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\FlowDocumentConverter.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\PdfSharp-WPF.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\PdfSharp.Xps.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Spire.License.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Spire.Pdf.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Microsoft.mshtml.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.pdb
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Subs.Business.dll.config
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Spire.License.xml
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\Spire.Pdf.xml
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs4.Presentation\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.AssemblyReference.cache
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitDecimal.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitDate.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitRichText.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CorrespondenceControl.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CountryControl.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\DeliveryAddress2.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationDeliveryAddress.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitInteger.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitString.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AddressTypeControl.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationCountry.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationCompany.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationProduct.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationPromotion.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ClassificationControl.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ClassificationPicker.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CreditNote.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CustomerClassification.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\DebitOrderBankStatement.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitDecimal.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitDate.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitEnumSingle.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitRichText.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SBBankStatement.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\FNBBankStatement.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CompanyControl2.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CorrespondenceControl.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CountryControl.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CustomerPicker3.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate2.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Deliver.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\DeliveryAddress2.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationDeliveryAddress.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\DeliveryOptionsControl.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Document.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitInteger.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitString.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\InvoiceControl.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\IssuePicker2.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Maintenance.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\PaymentAllocation.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationPostCode.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ProForma2.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\StatementControl2.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionCaptureChange.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDetailControl2.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionPicker2.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionsCapture.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionStatusDisplayContro2.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionStatusPrintControl.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.cache
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation_MarkupCompile.lref
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AddressTypeControl.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationCountry.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationCompany.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationProduct.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationPromotion.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ClassificationControl.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ClassificationPicker.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CreditNote.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CustomerClassification.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\DebitOrderBankStatement.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ElicitEnumSingle.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SBBankStatement.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\FNBBankStatement.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CompanyControl2.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CustomerPicker3.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdate2.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\CustomerUpdateExists2.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Deliver.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\DeliveryOptionsControl.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Document.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\InvoiceControl.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\IssuePicker2.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Maintenance.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\PaymentAllocation.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\AdministrationPostCode.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\ProForma2.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\StatementControl2.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionCaptureChange.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDetailControl2.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionPicker2.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionsCapture.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionStatusDisplayContro2.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionDormantControl.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\SubscriptionStatusPrintControl.baml
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.g.resources
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.Properties.Resources.resources
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.GenerateResource.cache
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.csproj.CopyComplete
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.dll
+C:\CSharp\MIMS4\Subs4.Presentation\obj\Debug\Subs4.Presentation.pdb

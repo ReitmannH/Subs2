@@ -1,0 +1,188 @@
+﻿@model Subs.WebApi.Models.UserTemplate
+
+@{
+    ViewBag.Title = "Account";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+    <link href="~/Content/StyleSheet.css" rel="stylesheet" type="text/css">
+
+    <title>@ViewBag.Title</title>
+
+    <style type="text/css">
+        label {
+            display: inline-block;
+            width: 200px;
+            font-family: Arial;
+        }
+
+        .dataElem {
+            margin:0.5em 0.5em 0.5em 1em;
+        }
+
+        .dataElem input {
+                width: 30em;
+            }
+
+        .dataElem select {
+                width: 30em;
+            }
+
+        .myButtons li {
+            display: inline;
+        }
+
+        .myButtons button {
+            margin: 1em 0em 0em -0.8em;
+            display: inline;
+            padding: 0px 7px 1px 7px;
+            border-radius: 10px;
+            text-decoration: none;
+            text-shadow: none;
+            font-family: Titillium, Arial, sans-serif;
+            font-weight: 700;
+            color: white;
+            text-transform: capitalize;
+            font-size: 0.8em;
+            letter-spacing: .1em;
+            background-color: dodgerblue;
+        }
+
+        .myButtons a {
+            margin: 2em 0em 0em 10.5em;
+            display: inline;
+            padding: 0px 7px 1px 7px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-family: Titillium, Arial, sans-serif;
+            font-weight: 700;
+            color: white;
+            text-transform: capitalize;
+            font-size: 0.8em;
+            letter-spacing: .1em;
+            background-color: dodgerblue;
+        }
+
+        .validation-summary-errors li {
+            font-family: Arial;
+            margin: 1em 0em 0em 1em;
+            color: red;
+        }
+
+    </style>
+
+
+</head>
+<body>
+
+    @Html.Partial("Heading")
+
+    <div style="margin-top:2em;">
+
+        @using (Html.BeginForm())
+        {
+            <p style="font-family: Arial; margin:2em 0em 2em 1em; color:red; ">
+                @Html.ViewBag.Message
+            </p>
+
+            <p>
+                @Html.ValidationSummary()
+            </p>
+
+            <div style="margin-top: 1em;">
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.CustomerId)
+                    @Html.DisplayFor(x => x.CustomerId)
+                </div>
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.TitleId)
+                    @Html.DropDownListFor(x => x.TitleId, @Model.TitleSelectList)
+                </div>
+
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.Initials)
+                    @Html.EditorFor(x => x.Initials)
+                </div>
+
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.FirstName)
+                    @Html.EditorFor(x => x.FirstName)
+                </div>
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.Surname)
+                    @Html.EditorFor(x => x.Surname)
+                </div>
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.CellPhoneNumber)
+                    @Html.EditorFor(x => x.CellPhoneNumber)
+                </div>
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.PhoneNumber)
+                    @Html.EditorFor(x => x.PhoneNumber)
+                </div>
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.EmailAddress)
+                    @Html.EditorFor(x => x.EmailAddress)
+                </div>
+
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.Address1)
+                    @Html.EditorFor(x => x.Address1)
+                </div>
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.Address2)
+                    @Html.EditorFor(x => x.Address2)
+                </div>
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.Address3)
+                    @Html.EditorFor(x => x.Address3)
+                </div>
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.Address4)
+                    @Html.EditorFor(x => x.Address4)
+                </div>
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.CountryId)
+                    @Html.DropDownListFor(x => x.CountryId, @Model.CountrySelectList)
+                </div>
+
+                <div class="dataElem">
+                    @Html.LabelFor(x => x.Address5)
+                    @Html.EditorFor(x => x.Address5)
+                </div>
+
+                <div class="myButtons">
+                    <ul>
+                        <li><button type="submit">Submit</button></li>
+
+                        @*<li>@Html.ActionLink("Reset password", "ResetPasswordGUID")</li>*@
+                    </ul>
+                </div>
+             </div>
+
+                }
+         </div>
+    </body>
+</html>

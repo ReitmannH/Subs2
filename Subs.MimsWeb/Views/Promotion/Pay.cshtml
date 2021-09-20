@@ -1,0 +1,56 @@
+﻿@using System.Collections.ObjectModel;
+@using Subs.MimsWeb.Models;
+@using Subs.Data;
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/StyleSheet.css" rel="stylesheet" type="text/css">
+    <title>Pay</title>
+
+    <style>
+        label {
+            display: inline-block;
+            width: 200px;
+            font-family: Arial;
+        }
+
+        .dataElem {
+            margin: 0.5em 0.5em 0.5em 1em;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    @Html.Partial("Heading")
+
+    <p style="font-family: Arial; margin:2em 0em 2em 1em; color:red; ">
+        @Html.ViewBag.Message
+    </p>
+
+
+    <div class="myButtons">
+        <ul>
+            <li> @Html.ActionLink("Pay via EFT", "PayEFT", "Promotion") </li>
+            <li> @Html.ActionLink("Pay via PayU", "Index", "PayU") </li>
+        </ul>
+    </div>
+
+    <p style="font-family: Arial; margin:2em 0em 0em 1em; color:red; ">
+        The subscriptions will be activated as soon as payment is confirmed.
+    </p>
+
+    <table style="margin-left:2em;border-bottom: 3px solid blue;width:950px">
+        <tr></tr>
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,100 @@
+﻿@using Subs.WebApi.Models
+@using Subs.Data
+@model ProductSelector
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SelectList</title>
+
+    <Style>
+        .myButton {
+            margin: 2em 0em 0em 1em;
+            display: block;
+            padding: 3px 7px 1px 7px;
+            border-radius: 10px;
+            border-color: dodgerblue;
+            text-decoration: none;
+            font-family: Titillium, Arial, sans-serif;
+            font-weight: 700;
+            color: white;
+            font-size: 0.8em;
+            letter-spacing: .1em;
+            background-color: dodgerblue;
+        }
+
+        td {
+            padding:10px 10px 10px 10px;
+            font-family: Arial;
+            font-size: 14px;
+            color: green
+        }
+
+        th {
+            font-family: Arial;
+            font-size: 14px;
+            color: royalblue;
+        }
+
+    </Style>
+
+
+</head>
+<body>
+    @Html.Partial("Heading")
+
+    <p style="padding:1em 1em 1em 1em; color: red;">
+        @Html.ViewBag.Message
+    </p>
+
+    @using (Html.BeginForm("SelectList", "Promotion"))
+    {
+    <fieldset>
+        <table style="margin-left: 0.5em;">
+            <tr>
+                <th align="left">Subject area</th>
+                <th align="left">Delivery medium</th>
+                <th align="left">Contract type</th>
+            </tr>
+
+            <tr>
+                <td>
+                    <select id="Category" name="Category">
+                        <option value='1'>Medicines information</option>
+                        <option value='2'>Treatment approaches</option>
+                        <option value='3'>Vetenarian medicines</option>
+
+                    </select>
+                </td>
+                <td>
+                    <select id="Medium" name="Medium">
+                        <option value='1'>All</option>
+                        <option value='2'>Print</option>
+                        <option value='3'>Electronic</option>
+                    </select>
+                </td>
+                <td>
+                    <select id="Type" name="Type">
+                        <option value='1'>All</option>
+                        <option value='2'>Single copy</option>
+                        <option value='3'>Subscription</option>
+                    </select>
+                </td>
+            </tr>
+        </table>
+
+        <p style="font-family:Arial;font-size:20px; margin: 1em 0 0 1em">Human medicine comparison</p>
+        <img src="~/images/Medicine comparison.jpg" style="width:950px; margin:1em 0 0 1em" />
+
+        <input class="myButton" type="submit" value="List the products satisfying these criteria" />
+    </fieldset>
+    }
+   
+</body>
+</html>

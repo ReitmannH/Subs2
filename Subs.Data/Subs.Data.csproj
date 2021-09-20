@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F501278F-2AE1-4EAE-8DDC-6029ECE74EED}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Subs.Data</RootNamespace>
+    <AssemblyName>Subs.Data</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <PublishUrl>http://localhost/Subs.Data/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>true</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.SqlServer.Types\10.0.0.0__89845dcd8080cc91\Microsoft.SqlServer.Types.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdministrationData2.cs" />
+    <Compile Include="AdministrationDoc.cs">
+      <DependentUpon>AdministrationDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AdministrationDoc.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AdministrationDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Base.cs" />
+    <Compile Include="BaseModel.cs" />
+    <Compile Include="ProductDataStatic.cs" />
+    <Compile Include="ClassificationData2.cs" />
+    <Compile Include="ClassificationDoc2.cs">
+      <DependentUpon>ClassificationDoc2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ClassificationDoc2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClassificationDoc2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ClassificationPathModelView.cs" />
+    <Compile Include="CommentData.cs" />
+    <Compile Include="CustomerData3.cs" />
+    <Compile Include="CustomerDoc2.cs" />
+    <Compile Include="CustomerDoc21.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CustomerDoc2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DeliveryAddressDoc1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DeliveryAddressDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DeliveryAddressStatic.cs" />
+    <Compile Include="DeliveryDataStatic.cs" />
+    <Compile Include="CounterData.cs" />
+    <Compile Include="DeliveryAddressData2.cs" />
+    <Compile Include="DeliveryAddressDoc.cs">
+      <DependentUpon>DeliveryAddressDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DeliveryData.cs" />
+    <Compile Include="DeliveryDoc.cs">
+      <DependentUpon>DeliveryDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DeliveryDoc.designer.cs">
+      <DependentUpon>DeliveryDoc.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ExcelIO.cs" />
+    <Compile Include="ExceptionData.cs" />
+    <Compile Include="Functions.cs" />
+    <Compile Include="InvoiceData.cs" />
+    <Compile Include="LedgerData.cs" />
+    <Compile Include="LedgerDoc2.cs">
+      <DependentUpon>LedgerDoc2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LedgerDoc2.Designer.cs">
+      <DependentUpon>LedgerDoc2.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="MIMS.cs">
+      <DependentUpon>MIMS.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="MIMS.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MIMS.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentDoc.cs">
+      <DependentUpon>PaymentDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentDoc.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PaymentDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PostCodeData.cs" />
+    <Compile Include="PostCodeDoc.cs">
+      <DependentUpon>PostCodeDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PostCodeDoc.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PostCodeDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ProductDoc.cs">
+      <DependentUpon>ProductDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ProductDoc.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PromotionData.cs" />
+    <Compile Include="RenewalData.cs" />
+    <Compile Include="RenewalDoc1.cs">
+      <DependentUpon>RenewalDoc1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RenewalDoc1.Designer.cs">
+      <DependentUpon>RenewalDoc1.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="SBDebitOrderDoc.cs">
+      <DependentUpon>SBDebitOrderDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="PaymentData.cs" />
+    <Compile Include="ProductData.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SBDebitOrderDoc.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SBDebitOrderDoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SubscriptionData3.cs" />
+    <Compile Include="SubscriptionDoc3.cs">
+      <DependentUpon>SubscriptionDoc3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SubscriptionDoc3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SubscriptionDoc3.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AdministrationDoc.xsc">
+      <DependentUpon>AdministrationDoc.xsd</DependentUpon>
+    </None>
+    <None Include="AdministrationDoc.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AdministrationDoc.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AdministrationDoc.xss">
+      <DependentUpon>AdministrationDoc.xsd</DependentUpon>
+    </None>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassificationDoc2.xsc">
+      <DependentUpon>ClassificationDoc2.xsd</DependentUpon>
+    </None>
+    <None Include="ClassificationDoc2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ClassificationDoc2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ClassificationDoc2.xss">
+      <DependentUpon>ClassificationDoc2.xsd</DependentUpon>
+    </None>
+    <None Include="CustomerDoc2.xsc">
+      <DependentUpon>CustomerDoc2.xsd</DependentUpon>
+    </None>
+    <None Include="CustomerDoc2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CustomerDoc21.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CustomerDoc2.xss">
+      <DependentUpon>CustomerDoc2.xsd</DependentUpon>
+    </None>
+    <None Include="DeliveryAddressDoc.xsc">
+      <DependentUpon>DeliveryAddressDoc.xsd</DependentUpon>
+    </None>
+    <None Include="DeliveryAddressDoc.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>DeliveryAddressDoc1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DeliveryAddressDoc.xss">
+      <DependentUpon>DeliveryAddressDoc.xsd</DependentUpon>
+    </None>
+    <None Include="DeliveryDoc.xsc">
+      <DependentUpon>DeliveryDoc.xsd</DependentUpon>
+    </None>
+    <None Include="DeliveryDoc.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DeliveryDoc.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DeliveryDoc.xss">
+      <DependentUpon>DeliveryDoc.xsd</DependentUpon>
+    </None>
+    <None Include="Documentation\Architecture1.ppt" />
+    <None Include="Documentation\CPD Requirement.docx" />
+    <None Include="Documentation\CPD.eap" />
+    <None Include="Documentation\DXS.docx" />
+    <None Include="Documentation\Git.docx" />
+    <None Include="Documentation\Maintenance.doc" />
+    <None Include="Documentation\MIMS Ecosystem.docx" />
+    <None Include="Documentation\MIMS Overview.pdf" />
+    <None Include="Documentation\MobiMims.docx" />
+    <None Include="Documentation\Specification.docx" />
+    <None Include="Documentation\Subs2.EAP" />
+    <None Include="Documentation\Subs2.ldb" />
+    <None Include="Documentation\Subscription.pptx" />
+    <None Include="Documentation\Sunrise_Paradise proposal.docx" />
+    <None Include="Documentation\Technical notes.docx" />
+    <None Include="LedgerDoc2.xsc">
+      <DependentUpon>LedgerDoc2.xsd</DependentUpon>
+    </None>
+    <None Include="LedgerDoc2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LedgerDoc2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="LedgerDoc2.xss">
+      <DependentUpon>LedgerDoc2.xsd</DependentUpon>
+    </None>
+    <None Include="MIMS.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>MIMS.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="PaymentDoc.xsc">
+      <DependentUpon>PaymentDoc.xsd</DependentUpon>
+    </None>
+    <None Include="PaymentDoc.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PaymentDoc.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="PaymentDoc.xss">
+      <DependentUpon>PaymentDoc.xsd</DependentUpon>
+    </None>
+    <None Include="PostCodeDoc.xsc">
+      <DependentUpon>PostCodeDoc.xsd</DependentUpon>
+    </None>
+    <None Include="PostCodeDoc.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PostCodeDoc.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PostCodeDoc.xss">
+      <DependentUpon>PostCodeDoc.xsd</DependentUpon>
+    </None>
+    <None Include="ProductDoc.xsc">
+      <DependentUpon>ProductDoc.xsd</DependentUpon>
+    </None>
+    <None Include="ProductDoc.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProductDoc.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ProductDoc.xss">
+      <DependentUpon>ProductDoc.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\LedgerDoc2.datasource" />
+    <None Include="Properties\DataSources\SubscriptionDoc3.SubscriptionIssueDataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="RenewalDoc1.xsc">
+      <DependentUpon>RenewalDoc1.xsd</DependentUpon>
+    </None>
+    <None Include="RenewalDoc1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RenewalDoc1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RenewalDoc1.xss">
+      <DependentUpon>RenewalDoc1.xsd</DependentUpon>
+    </None>
+    <None Include="SBDebitOrderDoc.xsc">
+      <DependentUpon>SBDebitOrderDoc.xsd</DependentUpon>
+    </None>
+    <None Include="SBDebitOrderDoc.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SBDebitOrderDoc.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SBDebitOrderDoc.xss">
+      <DependentUpon>SBDebitOrderDoc.xsd</DependentUpon>
+    </None>
+    <None Include="SubscriptionDoc3.xsc">
+      <DependentUpon>SubscriptionDoc3.xsd</DependentUpon>
+    </None>
+    <None Include="SubscriptionDoc3.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SubscriptionDoc3.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="SubscriptionDoc3.xss">
+      <DependentUpon>SubscriptionDoc3.xsd</DependentUpon>
+    </None>
+    <None Include="Tools\ABC.sql" />
+    <None Include="Tools\Churn rate.sql" />
+    <None Include="Tools\ClassificationReportTemplate.sql" />
+    <None Include="Tools\Execute Permissions.sql" />
+    <None Include="Tools\LiabilityReport.xlsx" />
+    <None Include="Tools\MapitAddressConversion.sql" />
+    <None Include="Tools\Mass discount calculator.xls" />
+    <None Include="Tools\Not renewed.sql" />
+    <None Include="Tools\PrimeDatabase.sql" />
+    <None Include="Tools\ReverseDelivery.sql" />
+    <None Include="Tools\Seed detector.sql" />
+    <None Include="Tools\SeedEliminator.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Documentation\Architecture1.jpg" />
+    <Content Include="Documentation\CPD Data.xml" />
+    <Content Include="Documentation\CPD web.xml" />
+    <Content Include="Documentation\MIMS Overview.xml" />
+    <Content Include="Tools\ContractLiability.sql" />
+    <Content Include="Tools\ExampleBatchSubscriptions.sql" />
+    <Content Include="Tools\Invoice report.sql" />
+    <Content Include="Tools\Liability.sql" />
+    <Content Include="Tools\LinkSubscriptionToDeliveryAddress.sql" />
+    <Content Include="Tools\MIMS8Upgrade.sql" />
+    <Content Include="Tools\Populate Liability Report.sql" />
+    <Content Include="Tools\PopulateSubscription.sql" />
+    <Content Include="Tools\SAPOCode.sql" />
+    <Content Include="Tools\Remove user.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MIMS.dbml.layout">
+      <DependentUpon>MIMS.dbml</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

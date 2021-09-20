@@ -1,0 +1,44 @@
+﻿<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element nillable="true" name="ArrayOfDeliveryItem">
+    <xsd:complexType>
+      <xsd:sequence minOccurs="0">
+        <xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="DeliveryItem" form="unqualified">
+          <xsd:complexType>
+            <xsd:all>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="WaybillNumber" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="Date" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Contact_NameAndSurname" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Company" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Address1" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Address2" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Address3" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Address4" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="PostalCode" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Country" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="ContactWork_Cell_Phonenumber" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:double" name="Weight" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="Length" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="Width" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="Height" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="Value" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="WeekendDelivery" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Insured" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="IsCollection" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="UniqueReferenceNumber" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="Pieces" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Special_Instructions" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="ProductName" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="Classification" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="CustomerId" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="EmailAddress" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:dateTime" name="ExpirationDate" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Building" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="FloorNo" form="unqualified"></xsd:element>
+              <xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Room" form="unqualified"></xsd:element>
+            </xsd:all>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

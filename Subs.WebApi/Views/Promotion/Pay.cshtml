@@ -1,0 +1,95 @@
+﻿@using System.Collections.ObjectModel;
+@using Subs.WebApi.Models;
+@using Subs.Data;
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/StyleSheet.css" rel="stylesheet" type="text/css">
+    <title>Pay</title>
+
+    <style>
+        label {
+            display: inline-block;
+            width: 200px;
+            font-family: Arial;
+        }
+
+        .dataElem {
+            margin: 0.5em 0.5em 0.5em 1em;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    @Html.Partial("Heading")
+
+    <p style="font-family: Arial; margin:2em 0em 2em 1em; color:red; ">
+        @Html.ViewBag.Message
+    </p>
+
+
+    <h1 style="margin:1em 0em 0em 2em">EFT Bank Account</h1>
+
+
+    <table style="margin: 1em 0em 1em 2em; font-family:Arial">
+        <tr>
+            <td >Account Name</td>
+            <td>.TBG MEDIA MIMS</td>
+        </tr>
+        <tr>
+            <td>Bank</td>
+            <td>Standard Bank</td>
+        </tr>
+        <tr>
+            <td>Branch Name</td>
+            <td>Hatfield</td>
+        </tr>
+        <tr>
+            <td>Branch Code</td>
+            <td>051001</td>
+        </tr>
+        <tr>
+            <td>Account No</td>
+            <td>012 131 830</td>
+        </tr>
+
+        <tr>
+            <td>SWIFT Code</td>
+            <td>SBZA ZA JJ</td>
+        </tr>
+        @{
+            LoginRequest lLoginRequest = (LoginRequest)Session["LoginRequest"];
+            ObservableCollection<BasketItem> lBasket = (ObservableCollection<BasketItem>)Session["Basket"];
+
+            <tr>
+                <td>Full amount</td>
+                <td>@lBasket.Sum(p => p.DiscountedPrice).ToString("########0.00")</td>
+            </tr>
+            <tr>
+                <td>Bank reference</td>
+                <td>@lLoginRequest.CustomerId.ToString()</td>
+            </tr>
+        }
+
+    </table>
+
+    <p style="font-family: Arial; margin:2em 0em 0em 1em; color:red; ">
+        The subscriptions will be activated as soon as payment is confirmed.
+    </p>
+
+    <table style="margin-left:2em;border-bottom: 3px solid blue;width:950px">
+        <tr></tr>
+    </table>
+
+</body>
+</html>

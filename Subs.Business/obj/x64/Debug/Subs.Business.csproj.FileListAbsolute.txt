@@ -1,0 +1,12 @@
+C:\CSharp\MIMS4\Subs.Business\bin\x64\Debug\SubscriptionsAndPayments.rdlc
+C:\CSharp\MIMS4\Subs.Business\bin\x64\Debug\Subs.Business.dll
+C:\CSharp\MIMS4\Subs.Business\bin\x64\Debug\Subs.Business.pdb
+C:\CSharp\MIMS4\Subs.Business\bin\x64\Debug\Subs.Data.dll
+C:\CSharp\MIMS4\Subs.Business\bin\x64\Debug\System.Data.DataSetExtensions.dll
+C:\CSharp\MIMS4\Subs.Business\bin\x64\Debug\System.Data.dll
+C:\CSharp\MIMS4\Subs.Business\bin\x64\Debug\System.dll
+C:\CSharp\MIMS4\Subs.Business\bin\x64\Debug\System.Xml.dll
+C:\CSharp\MIMS4\Subs.Business\bin\x64\Debug\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs.Business\obj\x64\Debug\Subs.Business.csprojResolveAssemblyReference.cache
+C:\CSharp\MIMS4\Subs.Business\obj\x64\Debug\Subs.Business.dll
+C:\CSharp\MIMS4\Subs.Business\obj\x64\Debug\Subs.Business.pdb

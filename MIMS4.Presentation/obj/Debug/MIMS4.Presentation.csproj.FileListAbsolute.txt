@@ -1,0 +1,312 @@
+E:\MIMS4\MIMS4.Presentation\bin\Debug\SubscriptionsAndPayments.rdlc
+E:\MIMS4\MIMS4.Presentation\bin\Debug\DeliveryReport2.rdlc
+E:\MIMS4\MIMS4.Presentation\bin\Debug\ProForma.rdlc
+E:\MIMS4\MIMS4.Presentation\bin\Debug\SubscriptionStatus.rdlc
+E:\MIMS4\MIMS4.Presentation\bin\Debug\ValidationReport.rdlc
+E:\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.config
+E:\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.manifest
+E:\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.application
+E:\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe
+E:\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.pdb
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Presentation.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Statement.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Invoice.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.CreditNote.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.pdb
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.dll.config
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.pdb
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.dll.config
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Presentation.pdb
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Presentation.dll.config
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Statement.pdb
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.pdb
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Invoice.pdb
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Invoice.dll.config
+E:\MIMS4\MIMS4.Presentation\bin\Debug\Subs.CreditNote.pdb
+E:\MIMS4\MIMS4.Presentation\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\MIMS4.Presentation\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csprojAssemblyReference.cache
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MainWindow.baml
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MainWindow.g.cs
+E:\MIMS4\MIMS4.Presentation\obj\Debug\App.g.cs
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation_Content.g.cs
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation_MarkupCompile.cache
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.g.resources
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.Properties.Resources.resources
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.GenerateResource.cache
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CoreCompileInputs.cache
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe.manifest
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.application
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CopyComplete
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe
+E:\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.pdb
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\SubscriptionsAndPayments.rdlc
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\DeliveryReport2.rdlc
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\ProForma.rdlc
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\SubscriptionStatus.rdlc
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\ValidationReport.rdlc
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.config
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.manifest
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.application
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.pdb
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.dll
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.dll
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Presentation.dll
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Statement.dll
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Invoice.dll
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.CreditNote.dll
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.pdb
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.dll.config
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.pdb
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.dll.config
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Presentation.pdb
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Presentation.dll.config
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Statement.pdb
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.pdb
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Invoice.pdb
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Invoice.dll.config
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.CreditNote.pdb
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csprojResolveAssemblyReference.cache
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MainWindow.baml
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MainWindow.g.cs
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\App.g.cs
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation_Content.g.cs
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation_MarkupCompile.cache
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.g.resources
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.Properties.Resources.resources
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.GenerateResource.Cache
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CoreCompileInputs.cache
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe.manifest
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.application
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe
+C:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.pdb
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Statement.dll.config
+C:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.CreditNote.dll.config
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\SubscriptionsAndPayments.rdlc
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\DeliveryReport2.rdlc
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\ProForma.rdlc
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\SubscriptionStatus.rdlc
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\ValidationReport.rdlc
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.config
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.manifest
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.application
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.pdb
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Presentation.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Statement.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Invoice.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.CreditNote.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.pdb
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.dll.config
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.pdb
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.dll.config
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Presentation.pdb
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Presentation.dll.config
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Statement.pdb
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Statement.dll.config
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.pdb
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Invoice.pdb
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Invoice.dll.config
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.CreditNote.pdb
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\Subs.CreditNote.dll.config
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MainWindow.baml
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MainWindow.g.cs
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\App.g.cs
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation_Content.g.cs
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation_MarkupCompile.cache
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.g.resources
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.Properties.Resources.resources
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.GenerateResource.Cache
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CoreCompileInputs.cache
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe.manifest
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.application
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.pdb
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csprojAssemblyReference.cache
+D:\CSharp2017\MIMS4\MIMS4.Presentation\bin\Debug\INVTemplate.xlsx
+D:\CSharp2017\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CopyComplete
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.config
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.manifest
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.application
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.pdb
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\FlowDocumentConverter.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\PdfSharp.Xps.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Spire.Pdf.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\PdfSharp-WPF.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Spire.License.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Microsoft.mshtml.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.pdb
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Business.dll.config
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.pdb
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.pdb
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Spire.Pdf.xml
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\Spire.License.xml
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.AssemblyReference.cache
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MainWindow.baml
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\App.baml
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MainWindow.g.cs
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\App.g.cs
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation_MarkupCompile.cache
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.g.resources
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.Properties.Resources.resources
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.GenerateResource.cache
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe.manifest
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.application
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CopyComplete
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe
+C:\CSharp\MIMS4\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.pdb
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.config
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.manifest
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.application
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.pdb
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Business.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Data.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\FlowDocumentConverter.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\PdfSharp.Xps.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Spire.Pdf.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\PdfSharp-WPF.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Spire.License.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Microsoft.mshtml.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Business.pdb
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Business.dll.config
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Data.pdb
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Data.dll.config
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs4.Presentation.pdb
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Spire.Pdf.xml
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\Spire.License.xml
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.AssemblyReference.cache
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MainWindow.baml
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\App.baml
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MainWindow.g.cs
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\App.g.cs
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation_MarkupCompile.cache
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.g.resources
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.Properties.Resources.resources
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.GenerateResource.cache
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CoreCompileInputs.cache
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe.manifest
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.application
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CopyComplete
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe
+Q:\Source code backups\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.pdb
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.config
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe.manifest
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.application
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.exe
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\MIMS4.Presentation.pdb
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Business.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Data.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\FlowDocumentConverter.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\PdfSharp.Xps.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Spire.Pdf.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\PdfSharp-WPF.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Spire.License.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Microsoft.mshtml.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Business.pdb
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Business.dll.config
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Data.pdb
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs4.Presentation.pdb
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Subs4.Presentation.dll.config
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Spire.Pdf.xml
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\Spire.License.xml
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.AssemblyReference.cache
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MainWindow.baml
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\App.baml
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MainWindow.g.cs
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\App.g.cs
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation_MarkupCompile.cache
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.g.resources
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.Properties.Resources.resources
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.GenerateResource.cache
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe.manifest
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.application
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.csproj.CopyComplete
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.exe
+C:\CSharp\MIMS20210808\MIMS4.Presentation\obj\Debug\MIMS4.Presentation.pdb

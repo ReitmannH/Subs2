@@ -1,0 +1,14 @@
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.XMLService.dll.config
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.XMLService.dll
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.XMLService.pdb
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Business.dll
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Data.dll
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Business.pdb
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Business.dll.config
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Data.dll.config
+C:\CSharp\MIMS4\Subs.XMLService\obj\Release\Subs.XMLService.csproj.AssemblyReference.cache
+C:\CSharp\MIMS4\Subs.XMLService\obj\Release\Subs.XMLService.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS4\Subs.XMLService\obj\Release\Subs.XMLService.csproj.CopyComplete
+C:\CSharp\MIMS4\Subs.XMLService\obj\Release\Subs.XMLService.dll
+C:\CSharp\MIMS4\Subs.XMLService\obj\Release\Subs.XMLService.pdb

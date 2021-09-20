@@ -1,0 +1,35 @@
+﻿
+@using Subs.WebApi.Models;
+@using Subs.Business;
+@using Subs.Data;
+@model BasketItem
+
+<style>
+    td
+    {
+        padding: 1em 1em 1em 1em;
+    }
+    input[type="text"]  {
+        text-align: right;
+        width: 3em;
+    }
+   
+</style>
+
+<tr>
+    <td><input type="checkbox"></td>
+    <td>@Model.ProductName</td>
+    <td style="text-align:right;width:3em">@Model.Subscription.NumberOfIssues.ToString()</td>
+    <td style="text-align:right;width:3em">@Html.TextBoxFor(x => x.Subscription.UnitsPerIssue)</td>
+    @{
+        SelectList lSelectList = new SelectList(@Model.DeliveryOptions, "Key", "Value");
+    }
+    <td>@Html.DropDownListFor(x => x.Subscription.DeliveryMethod, lSelectList)</td>
+    <td style="text-align:right" @Model.FullDeliveryCost.ToString("####0.00")></td>
+
+    <td style="text-align:right">@Model.FullVat.ToString("####0.00")</td>
+
+    <td style="text-align:right">@Model.FullPrice.ToString("####0.00")</td>
+    <td style="text-align:right">@Model.FullDiscount.ToString("####0.00")</td>
+    <td style="text-align:right">@Model.DiscountedPrice.ToString("######0.00")</td>
+</tr>

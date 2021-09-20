@@ -1,0 +1,17 @@
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\SubscriptionsAndPayments.rdlc
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\Subs.Data.dll
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\Microsoft.CSharp.dll
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\System.Data.DataSetExtensions.dll
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\System.Data.dll
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\System.Data.Linq.dll
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\System.dll
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\System.Drawing.dll
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\System.Windows.Forms.dll
+C:\CSharp\MIMS4\Subs.Data\bin\x64\Debug\System.Xml.dll
+C:\CSharp\MIMS4\Subs.Data\obj\x64\Debug\RdlCompile.cache
+C:\CSharp\MIMS4\Subs.Data\obj\x64\Debug\RdlCompile.compiled
+C:\CSharp\MIMS4\Subs.Data\obj\x64\Debug\Subs.Data.dll
+C:\CSharp\MIMS4\Subs.Data\obj\x64\Debug\Subs.Data.pdb

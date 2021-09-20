@@ -1,0 +1,25 @@
+﻿@model Subs.WebApi.Models.LoginRequest
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>LoginForm</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        <p>
+            CustomerId: @Html.TextBoxFor(x => x.CustomerId)
+        </p>
+        
+        <input type="submit" value="Submit" />
+
+    }
+</body>
+</html>

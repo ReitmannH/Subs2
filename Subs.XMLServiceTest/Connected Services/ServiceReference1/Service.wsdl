@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Authorize">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pProductId" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="pReceiverId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AuthorizeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AuthorizeResult" type="tns:SeatResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SeatResult">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Seats" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Reason" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ExpirationDate" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AuthorizationHeader" type="tns:AuthorizationHeader" />
+      <s:complexType name="AuthorizationHeader">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Type" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Source" type="s:string" />
+        </s:sequence>
+        <s:anyAttribute />
+      </s:complexType>
+      <s:element name="Authorizations">
+        <s:complexType />
+      </s:element>
+      <s:element name="AuthorizationsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AuthorizationsResult" type="tns:ArrayOfAuthorizationResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfAuthorizationResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="AuthorizationResult" nillable="true" type="tns:AuthorizationResult" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="AuthorizationResult">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Year" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Month" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CustomerId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ProductId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Seats" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ExpirationDate" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="FindEMailByCustomerId">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pCustomerId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindEMailByCustomerIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FindEMailByCustomerIdResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="pEmailAddress" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindCustomerIdByEmail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EmailAddress" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindCustomerIdByEmailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FindCustomerIdByEmailResult" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="CustomerId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindCustomerIdByNationalId">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="NationalId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindCustomerIdByNationalIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FindCustomerIdByNationalIdResult" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="CustomerId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCustomer">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pCustomerData" type="tns:CustomerData3" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CustomerData3">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseModel">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="CustomerId" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="LoginEmail" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="TitleId" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="Initials" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="FirstName" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Surname" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="NationalId1" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="NationalId2" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="NationalId3" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="CompanyId" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="Department" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Address1" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Address2" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Address3" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Address4" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Address5" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="AddressType" type="tns:AddressType" />
+              <s:element minOccurs="1" maxOccurs="1" name="PostAddressId" type="s:int" />
+              <s:element minOccurs="1" maxOccurs="1" name="PhysicalAddressId" type="s:int" />
+              <s:element minOccurs="1" maxOccurs="1" name="CountryId" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="PhoneNumber" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="CellPhoneNumber" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="FaxPhoneNumber" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="EmailAddress" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="InvoiceEmail" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="StatementEmail" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="Correspondence2" type="s:int" />
+              <s:element minOccurs="1" maxOccurs="1" name="Liability" type="s:decimal" />
+              <s:element minOccurs="1" maxOccurs="1" name="VerificationDate" nillable="true" type="s:dateTime" />
+              <s:element minOccurs="1" maxOccurs="1" name="Status" type="tns:CustomerStatus" />
+              <s:element minOccurs="0" maxOccurs="1" name="CouncilNumber" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="PracticeNumber1" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="PracticeNumber2" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="PracticeNumber3" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="ModifiedBy" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="CheckpointPaymentTransactionId" type="s:int" />
+              <s:element minOccurs="1" maxOccurs="1" name="CheckpointPaymentDate" type="s:dateTime" />
+              <s:element minOccurs="1" maxOccurs="1" name="CheckpointPaymentValue" type="s:decimal" />
+              <s:element minOccurs="1" maxOccurs="1" name="CheckpointInvoiceDate" type="s:dateTime" />
+              <s:element minOccurs="1" maxOccurs="1" name="ModifiedOn" type="s:dateTime" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="BaseModel" />
+      <s:simpleType name="AddressType">
+        <s:restriction base="s:string">
+          <s:enumeration value="Unknown" />
+          <s:enumeration value="International" />
+          <s:enumeration value="PostBox" />
+          <s:enumeration value="PostStreet" />
+          <s:enumeration value="UnAssigned" />
+        </s:restriction>
+      </s:simpleType>
+      <s:simpleType name="CustomerStatus">
+        <s:restriction base="s:string">
+          <s:enumeration value="Active" />
+          <s:enumeration value="Cancelled" />
+          <s:enumeration value="Dormant" />
+          <s:enumeration value="Unknown" />
+        </s:restriction>
+      </s:simpleType>
+      <s:element name="InsertCustomerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertCustomerResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pCustomerData" type="tns:CustomerData3" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomer">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pLoginEmail" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCustomerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCustomerResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pCustomerData" type="tns:CustomerData3" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCustomer">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pCustomerData" type="tns:CustomerData3" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateCustomerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateCustomerResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pCustomerData" type="tns:CustomerData3" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertDeliveryAddress">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pDeliveryAddressData" type="tns:DeliveryAddressData2" />
+            <s:element minOccurs="1" maxOccurs="1" name="pCustomerId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="DeliveryAddressData2">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Completed" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="DeliveryAddressId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="PhoneNumber" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CountryId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Province" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="City" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Suburb" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Street" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StreetExtension" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StreetSuffix" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StreetNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Building" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Floor" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Room" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PostCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SDI" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ModifiedBy" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ModifiedOn" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertDeliveryAddressResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertDeliveryAddressResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pDeliveryAddressData" type="tns:DeliveryAddressData2" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDeliveryAddress">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pDeliveryAddressId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDeliveryAddressResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetDeliveryAddressResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pDeliveryAddressData" type="tns:DeliveryAddressData2" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateDeliveryAddress">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pDeliveryAddressData" type="tns:DeliveryAddressData2" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateDeliveryAddressResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateDeliveryAddressResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pDeliveryAddressData" type="tns:DeliveryAddressData2" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="AuthorizeSoapIn">
+    <wsdl:part name="parameters" element="tns:Authorize" />
+  </wsdl:message>
+  <wsdl:message name="AuthorizeSoapOut">
+    <wsdl:part name="parameters" element="tns:AuthorizeResponse" />
+  </wsdl:message>
+  <wsdl:message name="AuthorizeAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:message name="AuthorizationsSoapIn">
+    <wsdl:part name="parameters" element="tns:Authorizations" />
+  </wsdl:message>
+  <wsdl:message name="AuthorizationsSoapOut">
+    <wsdl:part name="parameters" element="tns:AuthorizationsResponse" />
+  </wsdl:message>
+  <wsdl:message name="AuthorizationsAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:message name="FindEMailByCustomerIdSoapIn">
+    <wsdl:part name="parameters" element="tns:FindEMailByCustomerId" />
+  </wsdl:message>
+  <wsdl:message name="FindEMailByCustomerIdSoapOut">
+    <wsdl:part name="parameters" element="tns:FindEMailByCustomerIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="FindEMailByCustomerIdAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:message name="FindCustomerIdByEmailSoapIn">
+    <wsdl:part name="parameters" element="tns:FindCustomerIdByEmail" />
+  </wsdl:message>
+  <wsdl:message name="FindCustomerIdByEmailSoapOut">
+    <wsdl:part name="parameters" element="tns:FindCustomerIdByEmailResponse" />
+  </wsdl:message>
+  <wsdl:message name="FindCustomerIdByEmailAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:message name="FindCustomerIdByNationalIdSoapIn">
+    <wsdl:part name="parameters" element="tns:FindCustomerIdByNationalId" />
+  </wsdl:message>
+  <wsdl:message name="FindCustomerIdByNationalIdSoapOut">
+    <wsdl:part name="parameters" element="tns:FindCustomerIdByNationalIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="FindCustomerIdByNationalIdAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:message name="InsertCustomerSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertCustomer" />
+  </wsdl:message>
+  <wsdl:message name="InsertCustomerSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertCustomerAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCustomer" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCustomerAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomerSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateCustomer" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomerSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateCustomerAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:message name="InsertDeliveryAddressSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertDeliveryAddress" />
+  </wsdl:message>
+  <wsdl:message name="InsertDeliveryAddressSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertDeliveryAddressResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertDeliveryAddressAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:message name="GetDeliveryAddressSoapIn">
+    <wsdl:part name="parameters" element="tns:GetDeliveryAddress" />
+  </wsdl:message>
+  <wsdl:message name="GetDeliveryAddressSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDeliveryAddressResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetDeliveryAddressAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:message name="UpdateDeliveryAddressSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateDeliveryAddress" />
+  </wsdl:message>
+  <wsdl:message name="UpdateDeliveryAddressSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateDeliveryAddressResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateDeliveryAddressAuthorizationHeader">
+    <wsdl:part name="AuthorizationHeader" element="tns:AuthorizationHeader" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="Authorize">
+      <wsdl:input message="tns:AuthorizeSoapIn" />
+      <wsdl:output message="tns:AuthorizeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Authorizations">
+      <wsdl:input message="tns:AuthorizationsSoapIn" />
+      <wsdl:output message="tns:AuthorizationsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FindEMailByCustomerId">
+      <wsdl:input message="tns:FindEMailByCustomerIdSoapIn" />
+      <wsdl:output message="tns:FindEMailByCustomerIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FindCustomerIdByEmail">
+      <wsdl:input message="tns:FindCustomerIdByEmailSoapIn" />
+      <wsdl:output message="tns:FindCustomerIdByEmailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FindCustomerIdByNationalId">
+      <wsdl:input message="tns:FindCustomerIdByNationalIdSoapIn" />
+      <wsdl:output message="tns:FindCustomerIdByNationalIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCustomer">
+      <wsdl:input message="tns:InsertCustomerSoapIn" />
+      <wsdl:output message="tns:InsertCustomerSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomer">
+      <wsdl:input message="tns:GetCustomerSoapIn" />
+      <wsdl:output message="tns:GetCustomerSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomer">
+      <wsdl:input message="tns:UpdateCustomerSoapIn" />
+      <wsdl:output message="tns:UpdateCustomerSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertDeliveryAddress">
+      <wsdl:input message="tns:InsertDeliveryAddressSoapIn" />
+      <wsdl:output message="tns:InsertDeliveryAddressSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDeliveryAddress">
+      <wsdl:input message="tns:GetDeliveryAddressSoapIn" />
+      <wsdl:output message="tns:GetDeliveryAddressSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDeliveryAddress">
+      <wsdl:input message="tns:UpdateDeliveryAddressSoapIn" />
+      <wsdl:output message="tns:UpdateDeliveryAddressSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Authorize">
+      <soap:operation soapAction="http://tempuri.org/Authorize" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:AuthorizeAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Authorizations">
+      <soap:operation soapAction="http://tempuri.org/Authorizations" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:AuthorizationsAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindEMailByCustomerId">
+      <soap:operation soapAction="http://tempuri.org/FindEMailByCustomerId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:FindEMailByCustomerIdAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindCustomerIdByEmail">
+      <soap:operation soapAction="http://tempuri.org/FindCustomerIdByEmail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:FindCustomerIdByEmailAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindCustomerIdByNationalId">
+      <soap:operation soapAction="http://tempuri.org/FindCustomerIdByNationalId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:FindCustomerIdByNationalIdAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCustomer">
+      <soap:operation soapAction="http://tempuri.org/InsertCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:InsertCustomerAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomer">
+      <soap:operation soapAction="http://tempuri.org/GetCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:GetCustomerAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomer">
+      <soap:operation soapAction="http://tempuri.org/UpdateCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:UpdateCustomerAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertDeliveryAddress">
+      <soap:operation soapAction="http://tempuri.org/InsertDeliveryAddress" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:InsertDeliveryAddressAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDeliveryAddress">
+      <soap:operation soapAction="http://tempuri.org/GetDeliveryAddress" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:GetDeliveryAddressAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDeliveryAddress">
+      <soap:operation soapAction="http://tempuri.org/UpdateDeliveryAddress" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:UpdateDeliveryAddressAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Authorize">
+      <soap12:operation soapAction="http://tempuri.org/Authorize" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:AuthorizeAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Authorizations">
+      <soap12:operation soapAction="http://tempuri.org/Authorizations" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:AuthorizationsAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindEMailByCustomerId">
+      <soap12:operation soapAction="http://tempuri.org/FindEMailByCustomerId" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:FindEMailByCustomerIdAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindCustomerIdByEmail">
+      <soap12:operation soapAction="http://tempuri.org/FindCustomerIdByEmail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:FindCustomerIdByEmailAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindCustomerIdByNationalId">
+      <soap12:operation soapAction="http://tempuri.org/FindCustomerIdByNationalId" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:FindCustomerIdByNationalIdAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCustomer">
+      <soap12:operation soapAction="http://tempuri.org/InsertCustomer" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:InsertCustomerAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustomer">
+      <soap12:operation soapAction="http://tempuri.org/GetCustomer" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:GetCustomerAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCustomer">
+      <soap12:operation soapAction="http://tempuri.org/UpdateCustomer" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:UpdateCustomerAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertDeliveryAddress">
+      <soap12:operation soapAction="http://tempuri.org/InsertDeliveryAddress" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:InsertDeliveryAddressAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDeliveryAddress">
+      <soap12:operation soapAction="http://tempuri.org/GetDeliveryAddress" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:GetDeliveryAddressAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDeliveryAddress">
+      <soap12:operation soapAction="http://tempuri.org/UpdateDeliveryAddress" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:UpdateDeliveryAddressAuthorizationHeader" part="AuthorizationHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://196.34.62.96:8063/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://196.34.62.96:8063/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,118 @@
+﻿@model Subs.MimsWeb.Models.LoginRequest
+
+@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="/Scripts/jquery-3.4.1.js"></script>
+    <script src="/Scripts/Default.js"></script>
+
+
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+    @*<link href="~/Content/StyleSheet.css" rel="stylesheet" type="text/css">*@
+
+    <title>@ViewBag.Title</title>
+
+    <style>
+        p {
+            margin: 1em 1em 1em 1em;
+            font-family: Titillium, Arial, sans-serif;
+        }
+
+        .LoginMessage {
+            margin-top: 50px;
+            font-family: Arial;
+            color: red;
+        }
+
+        .myButtons li {
+            display: inline;
+        }
+
+        .myButtons button {
+            margin: 1em 0em 0em -0.8em;
+            display: inline;
+            padding: 0px 7px 1px 7px;
+            border-radius: 10px;
+            text-decoration: none;
+            text-shadow: none;
+            font-family: Titillium, Arial, sans-serif;
+            font-weight: 700;
+            color: white;
+            text-transform: capitalize;
+            font-size: 0.8em;
+            letter-spacing: .1em;
+            background-color: dodgerblue;
+        }
+
+        .myButtons a {
+            margin: 2em 0em 0em 7.7em;
+            display: inline;
+            padding: 0px 7px 1px 7px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-family: Titillium, Arial, sans-serif;
+            font-weight: 700;
+            color: white;
+            text-transform: capitalize;
+            font-size: 0.8em;
+            letter-spacing: .1em;
+            background-color: dodgerblue;
+        }
+
+        .editor-field input {
+            width: 30em;
+        }
+    </style>
+
+</head>
+<body>
+
+    @Html.Partial("Heading")
+
+    <div style="margin-left: 1em">
+        @using (Html.BeginForm())
+        {
+            <p class="LoginMessage">
+                @Html.ViewBag.Message
+            </p>
+
+
+            <fieldset style="margin-top: 2em">
+                <p>
+                    @Html.LabelFor(x => x.CustomerId)
+                    <span style="position: absolute; left:200px">
+                        @Html.EditorFor(x => x.CustomerId)
+                    </span>
+                </p>
+
+                <p>
+                @Html.LabelFor(x => x.Password)
+                    <span style="position: absolute; left:200px">
+                        @Html.PasswordFor(x => x.Password) Forgot password? @Html.CheckBoxFor(x => x.ResetPassword)
+                    </span>
+                </p>
+
+            </fieldset>
+
+            <div class="myButtons">
+                <ul>
+                    <li><button type="submit">Submit</button></li>
+                </ul>
+            </div>
+
+        }
+    </div>
+   
+
+</body>
+</html>

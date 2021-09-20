@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+    <link href="~/Content/StyleSheet.css" rel="stylesheet" type="text/css">
+
+    <title>@ViewBag.Title</title>
+
+</head>
+<body>
+    <div style="min-width:480px">
+        @Html.Partial("Heading")
+
+        <div style="background-color: rgb(241,243, 247); height: 430px; ">
+
+            <img src="~/Content/img/home_left.png" style="float:left; height: 398px; width: 25%;">
+            <img src="/Content/img/home_right.png" style="float:right;height: 398px; width: 25%;">
+            <div style="width: 50%; height: 398px; display:inline;">
+                <br/>
+                <h1 style="text-align: center; font-family: sans-serif;">
+                    Welcome
+                </h1>
+                <p style="text-align: center; font-family: sans-serif; line-height:100%">
+                    <strong>MIMS</strong> – the medical publishing division of Arena Holdings (Pty) Ltd –<br />
+                    is a leading publisher of reference information to the medical<br />
+                    and veterinary profession in southern Africa.<br /><br />
+
+                    Our audience includes GPs, specialists, pharmacists,<br />
+                    pharmacy assistants, and other healthcare professionals.<br /><br />
+
+                    <strong>MIMS</strong> produces a host of publications in the print and digital media.<br />
+                    Publications – both single copies and subscription-based –<br />
+                    can be ordered via this site.<br />
+                </p>
+            </div>
+
+
+        </div>
+    
+        <div style="text-align:center;">
+            <img src="~/Content/img/Ascendis Banner2 narrow.jpg" style="height:120px;"/>
+        </div>
+
+        <footer style="border: solid 1px black; color: #fff; background-color: dodgerblue;
+                text-align:center; align-content:center">
+            <p style="font-size: 13px; font-weight: bold; font-family:sans-serif ">
+                Read more at the SA government's
+                <a href="https://sacoronavirus.co.za/" target="_blank" text-decoration:underline; style="color: #fff;">online coronavirus portal</a>
+                or use the 24-hour public hotline: 0800 029 999
+            </p>
+            <p style="text-align:center; font-size:10px">Copyrights &copy; @DateTime.Now.Year  MIMS. All Rights Reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
+
+

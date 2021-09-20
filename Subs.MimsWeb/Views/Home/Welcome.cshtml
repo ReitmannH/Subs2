@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Welcome</title>
+
+    <style>
+        p {
+            padding: 1em 1em 1em 1em;
+            font-family: Arial;
+            font-size: large;
+            font-weight: 600;
+            color: green;
+            animation-name: growAndGlow;
+            animation-duration: 3s;
+        }
+
+        @@keyframes growAndGlow
+        {
+            from  {
+                color:yellow;
+            }
+
+            50% {
+                transform: translateX(2em);
+                color: blue;
+            }
+
+            to {
+                color: green;
+            }
+       }
+
+
+    </style>
+</head>
+<body>
+
+    @Html.Partial("Heading")
+
+    <p>
+        @Html.ViewBag.Message
+    </p>
+
+</body>
+</html>

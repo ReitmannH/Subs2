@@ -1,0 +1,92 @@
+E:\MIMS4\Subs.Business\bin\Debug\SubscriptionsAndPayments.rdlc
+E:\MIMS4\Subs.Business\bin\Debug\Subs.Business.dll.config
+E:\MIMS4\Subs.Business\bin\Debug\Subs.Business.dll
+E:\MIMS4\Subs.Business\bin\Debug\Subs.Business.pdb
+E:\MIMS4\Subs.Business\bin\Debug\Subs.Data.dll
+E:\MIMS4\Subs.Business\bin\Debug\System.Data.DataSetExtensions.dll
+E:\MIMS4\Subs.Business\bin\Debug\System.Data.dll
+E:\MIMS4\Subs.Business\bin\Debug\System.dll
+E:\MIMS4\Subs.Business\bin\Debug\System.Xml.dll
+E:\MIMS4\Subs.Business\bin\Debug\Subs.Data.pdb
+E:\MIMS4\Subs.Business\bin\Debug\Subs.Data.dll.config
+E:\MIMS4\Subs.Business\obj\Debug\Subs.Business.csprojAssemblyReference.cache
+E:\MIMS4\Subs.Business\obj\Debug\Subs.Business.csproj.CoreCompileInputs.cache
+E:\MIMS4\Subs.Business\obj\Debug\Subs.Business.csproj.CopyComplete
+E:\MIMS4\Subs.Business\obj\Debug\Subs.Business.dll
+E:\MIMS4\Subs.Business\obj\Debug\Subs.Business.pdb
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\SubscriptionsAndPayments.rdlc
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Business.dll.config
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Business.dll
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Business.pdb
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Data.dll
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\System.Data.DataSetExtensions.dll
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\System.Data.dll
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\System.dll
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\System.Xml.dll
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Data.pdb
+C:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Data.dll.config
+C:\CSharp2017\MIMS4\Subs.Business\obj\Debug\Subs.Business.csprojResolveAssemblyReference.cache
+C:\CSharp2017\MIMS4\Subs.Business\obj\Debug\Subs.Business.csproj.CoreCompileInputs.cache
+C:\CSharp2017\MIMS4\Subs.Business\obj\Debug\Subs.Business.dll
+C:\CSharp2017\MIMS4\Subs.Business\obj\Debug\Subs.Business.pdb
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\SubscriptionsAndPayments.rdlc
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Business.dll.config
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Business.dll
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Business.pdb
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Data.dll
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\System.Data.DataSetExtensions.dll
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\System.Data.dll
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\System.dll
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\System.Xml.dll
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Data.pdb
+D:\CSharp2017\MIMS4\Subs.Business\bin\Debug\Subs.Data.dll.config
+D:\CSharp2017\MIMS4\Subs.Business\obj\Debug\Subs.Business.csproj.CoreCompileInputs.cache
+D:\CSharp2017\MIMS4\Subs.Business\obj\Debug\Subs.Business.dll
+D:\CSharp2017\MIMS4\Subs.Business\obj\Debug\Subs.Business.pdb
+D:\CSharp2017\MIMS4\Subs.Business\obj\Debug\Subs.Business.csprojAssemblyReference.cache
+D:\CSharp2017\MIMS4\Subs.Business\obj\Debug\Subs.Business.csproj.CopyComplete
+Q:\Source code backups\MIMS20210808\Subs.Business\bin\Debug\Subs.Business.dll.config
+Q:\Source code backups\MIMS20210808\Subs.Business\bin\Debug\Subs.Business.dll
+Q:\Source code backups\MIMS20210808\Subs.Business\bin\Debug\Subs.Business.pdb
+Q:\Source code backups\MIMS20210808\Subs.Business\bin\Debug\Subs.Data.dll
+Q:\Source code backups\MIMS20210808\Subs.Business\bin\Debug\System.Data.DataSetExtensions.dll
+Q:\Source code backups\MIMS20210808\Subs.Business\bin\Debug\System.Data.dll
+Q:\Source code backups\MIMS20210808\Subs.Business\bin\Debug\System.dll
+Q:\Source code backups\MIMS20210808\Subs.Business\bin\Debug\System.Xml.dll
+Q:\Source code backups\MIMS20210808\Subs.Business\bin\Debug\Subs.Data.pdb
+Q:\Source code backups\MIMS20210808\Subs.Business\bin\Debug\Subs.Data.dll.config
+Q:\Source code backups\MIMS20210808\Subs.Business\obj\Debug\Subs.Business.csproj.AssemblyReference.cache
+Q:\Source code backups\MIMS20210808\Subs.Business\obj\Debug\Subs.Business.csproj.CoreCompileInputs.cache
+Q:\Source code backups\MIMS20210808\Subs.Business\obj\Debug\Subs.Business.csproj.CopyComplete
+Q:\Source code backups\MIMS20210808\Subs.Business\obj\Debug\Subs.Business.dll
+Q:\Source code backups\MIMS20210808\Subs.Business\obj\Debug\Subs.Business.pdb
+C:\CSharp\MIMS20210808\Subs.Business\bin\Debug\Subs.Business.dll.config
+C:\CSharp\MIMS20210808\Subs.Business\bin\Debug\Subs.Business.dll
+C:\CSharp\MIMS20210808\Subs.Business\bin\Debug\Subs.Business.pdb
+C:\CSharp\MIMS20210808\Subs.Business\bin\Debug\Subs.Data.dll
+C:\CSharp\MIMS20210808\Subs.Business\bin\Debug\System.Data.DataSetExtensions.dll
+C:\CSharp\MIMS20210808\Subs.Business\bin\Debug\System.Data.dll
+C:\CSharp\MIMS20210808\Subs.Business\bin\Debug\System.dll
+C:\CSharp\MIMS20210808\Subs.Business\bin\Debug\System.Xml.dll
+C:\CSharp\MIMS20210808\Subs.Business\bin\Debug\Subs.Data.pdb
+C:\CSharp\MIMS20210808\Subs.Business\bin\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS20210808\Subs.Business\obj\Debug\Subs.Business.csproj.AssemblyReference.cache
+C:\CSharp\MIMS20210808\Subs.Business\obj\Debug\Subs.Business.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS20210808\Subs.Business\obj\Debug\Subs.Business.csproj.CopyComplete
+C:\CSharp\MIMS20210808\Subs.Business\obj\Debug\Subs.Business.dll
+C:\CSharp\MIMS20210808\Subs.Business\obj\Debug\Subs.Business.pdb
+C:\CSharp\MIMS4\Subs.Business\bin\Debug\Subs.Business.dll.config
+C:\CSharp\MIMS4\Subs.Business\bin\Debug\Subs.Business.dll
+C:\CSharp\MIMS4\Subs.Business\bin\Debug\Subs.Business.pdb
+C:\CSharp\MIMS4\Subs.Business\bin\Debug\Subs.Data.dll
+C:\CSharp\MIMS4\Subs.Business\bin\Debug\System.Data.DataSetExtensions.dll
+C:\CSharp\MIMS4\Subs.Business\bin\Debug\System.Data.dll
+C:\CSharp\MIMS4\Subs.Business\bin\Debug\System.dll
+C:\CSharp\MIMS4\Subs.Business\bin\Debug\System.Xml.dll
+C:\CSharp\MIMS4\Subs.Business\bin\Debug\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs.Business\bin\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS4\Subs.Business\obj\Debug\Subs.Business.csproj.AssemblyReference.cache
+C:\CSharp\MIMS4\Subs.Business\obj\Debug\Subs.Business.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS4\Subs.Business\obj\Debug\Subs.Business.csproj.CopyComplete
+C:\CSharp\MIMS4\Subs.Business\obj\Debug\Subs.Business.dll
+C:\CSharp\MIMS4\Subs.Business\obj\Debug\Subs.Business.pdb

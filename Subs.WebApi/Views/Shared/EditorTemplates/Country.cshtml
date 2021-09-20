@@ -1,0 +1,14 @@
+﻿@using Subs.WebApi.Models;
+
+@model Country
+
+<style>
+    .myCountry {
+        width:205px;
+    }
+</style>
+
+<label class="editor-label">Country</label>
+<div class="editor-field">
+    @Html.DropDownListFor(x => x.SelectedValue, Model.Items, new { @class = "myCountry"})
+</div>

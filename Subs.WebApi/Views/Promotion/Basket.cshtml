@@ -1,0 +1,130 @@
+﻿@using Subs.Data;
+@using Subs.Business;
+@using Subs.WebApi.Models;
+
+@model IList<BasketItem>
+
+@{
+    ViewBag.Title = "Basket";
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="~/Content/StyleSheet.css" rel="stylesheet" type="text/css">
+
+    <title>Basket</title>
+    <style>
+        th {
+            padding: 1em 1em 1em 1em;
+        }
+
+        .myButtons li {
+            display: inline;
+        }
+
+        .myButtons button {
+            margin: 1em 0em 0em 0em;
+            display: inline;
+            padding: 0px 7px 1px 7px;
+            border-radius: 10px;
+            text-decoration: none;
+            text-shadow:none;
+            font-family: Titillium, Arial, sans-serif;
+            font-weight: 700;
+            color: white;
+            text-transform: capitalize;
+            font-size: 0.8em;
+            letter-spacing: .1em;
+            background-color: dodgerblue;
+        }
+
+
+        .myButtons a {
+            margin: 2em 0em 0em 1em;
+            display: inline;
+            padding: 0px 7px 1px 7px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-family: Titillium, Arial, sans-serif;
+            font-weight: 700;
+            color: white;
+            text-transform: capitalize;
+            font-size: 0.8em;
+            letter-spacing: .1em;
+            background-color: dodgerblue;
+        }
+
+        .myTotals {
+            padding: 1em 1em 1em 1em;
+            border-top: 1px solid black;
+            border-bottom: 2px solid black;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    @Html.Partial("Heading")
+
+    <p style="margin:2em 1em 1em 1em">
+        @Html.ViewBag.Message
+    </p>
+
+    @using (Html.BeginForm("Basket", "Promotion"))
+    {
+        <div class="myButtons">
+            <ul>
+                <li> <button type="submit">Recalculate my basket</button></li>
+                <li> @Html.ActionLink("Submit subscriptions", "DeliveryAddress", "Promotion")</li>
+                <li> @Html.ActionLink("Go back to product selection", "List", "Promotion") </li>
+            </ul>
+        </div>
+
+        <table>
+            <tr style="margin-bottom:1em">
+                <th>Drop</th>
+                <th style="text-align:left">Product</th>
+                <th>#Issues</th>
+                <th>#Units/issue</th>
+                <th>Delivery option</th>
+                <th>Delivery cost</th>
+                <th>VAT</th>
+                <th>Full price</th>
+                <th>Discount</th>
+                <th>Final price</th>
+            </tr>
+
+                @{int i = 0;
+                }
+                @foreach (BasketItem p in @Model)
+                {
+                    p.Index = i;
+
+                    @Html.Partial("BasketItem", p)
+                    i++;
+                }
+         
+            <tr>
+                @{
+                    decimal TotalDiscount = @Model.Sum(p => p.FullPrice) - @Model.Sum(p => p.DiscountedPrice);
+                }
+                <td class="myTotals"></td>
+                <td class="myTotals"><strong>Totals</strong></td>
+                <td class="myTotals" colspan="5"></td>
+                <td class="myTotals" style="text-align:right">@Model.Sum(p => p.FullPrice).ToString("########0.00")</td>
+                <td class="myTotals" style="text-align:right">@TotalDiscount.ToString("########0.00")</td>
+                <td class="myTotals" style="text-align:right">@Model.Sum(p => p.DiscountedPrice).ToString("########0.00")</td>
+                
+            </tr>   
+        </table>
+    }
+
+</body>
+</html>

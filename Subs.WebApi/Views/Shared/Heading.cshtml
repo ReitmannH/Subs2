@@ -1,0 +1,82 @@
+﻿<style>
+
+    header {
+        display: grid;
+        position: relative;
+        margin: 0.5em 0em 1em 1em; 
+    }
+
+    nav ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+
+    nav li {
+        display: inline;
+    }
+
+    nav a {
+        display: inline-block;
+        padding: 3px 7px 1px 7px;
+        border-radius: 20px;
+        border-color: darkblue;
+        text-decoration: none;
+        font-family: Titillium, Arial, sans-serif;
+        font-weight: 700;
+        color: white;
+        text-shadow: 2px 2px 4px rgba(0,0,0,1);
+        text-transform: uppercase;
+        font-size: 1.2em;
+        letter-spacing: .1em;
+        background-color: dodgerblue;
+        /*background: -webkit-linear-gradient(top, rgba(232,113,35,1),rgba(232,113,35,.5));
+    background: -moz-linear-gradient(top, rgba(232,113,35,1),rgba(232,113,35,.5));
+    background: -o-linear-gradient(top, rgba(232,113,35,1),rgba(232,113,35,.5));
+    background: linear-gradient(top, rgba(232,113,35,1),rgba(232,113,35,.5));*/
+        margin-right: 5px;
+    }
+
+        nav a:hover {
+            transform: scale(1.1);
+        }
+</style>
+
+<header>
+    <nav>
+        <ul>
+            <li><img src="~/Content/img/logos/mims-small.png" width="150" style="display:inline-block;margin-bottom: -10px" /></li>
+
+            <li style="margin-left: 30px">@Html.ActionLink("PRODUCTS", "SelectList", "Promotion")</li>
+
+            @{ object lLoginRequest = Session["LoginRequest"];
+                if (lLoginRequest == null)
+                {
+                    <li>@Html.ActionLink("LOGIN", "Login", "Home")</li>
+
+                    <li>@Html.ActionLink("REGISTER", "RegisterEmail", "Home")</li>
+                }
+                else
+                {
+                    <li>@Html.ActionLink("ACCOUNT", "Account", "Home")</li>
+                }
+            }
+
+            <li>@Html.ActionLink("ABOUT", "About", "Home")</li>
+
+            <li>@Html.ActionLink("CONTACT", "Contact", "Home")</li>
+
+            <li>@Html.ActionLink("HOME", "Index", "Home")</li>
+
+        </ul>
+    </nav>
+    <ul style="margin: 1em 0 0 9.9em;">
+        <li style="display: inline;color:darkblue; font-size:20px">@Html.ActionLink("CPD", "CPD", "Home")</li>
+
+        @*<li style="display: inline;"><a style="color:darkblue; font-size:20px" href="http://www.mimscpd.co.za/">CPD</a></li>*@
+
+        <li style="display: inline; margin-left:2em"><a style="color:darkblue; font-size:20px" href="http://www.mobimims.co.za/">MobiMims</a></li>
+        <li style="display: inline; margin-left:2em"><a style="color:darkblue; font-size:20px" href="https://www.emims.co.za/emims">eMims</a></li>
+    </ul>
+
+</header>

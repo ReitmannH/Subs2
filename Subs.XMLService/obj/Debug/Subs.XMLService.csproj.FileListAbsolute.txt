@@ -1,0 +1,42 @@
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.XMLService.dll.config
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.XMLService.dll
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.XMLService.pdb
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Business.dll
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Data.dll
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Business.pdb
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Business.dll.config
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs.XMLService\bin\Subs.Data.dll.config
+C:\CSharp\MIMS4\Subs.XMLService\obj\Debug\Subs.XMLService.csproj.AssemblyReference.cache
+C:\CSharp\MIMS4\Subs.XMLService\obj\Debug\Subs.XMLService.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS4\Subs.XMLService\obj\Debug\Subs.XMLService.csproj.CopyComplete
+C:\CSharp\MIMS4\Subs.XMLService\obj\Debug\Subs.XMLService.dll
+C:\CSharp\MIMS4\Subs.XMLService\obj\Debug\Subs.XMLService.pdb
+Q:\Source code backups\MIMS20210808\Subs.XMLService\bin\Subs.XMLService.dll.config
+Q:\Source code backups\MIMS20210808\Subs.XMLService\bin\Subs.XMLService.dll
+Q:\Source code backups\MIMS20210808\Subs.XMLService\bin\Subs.XMLService.pdb
+Q:\Source code backups\MIMS20210808\Subs.XMLService\bin\Subs.Business.dll
+Q:\Source code backups\MIMS20210808\Subs.XMLService\bin\Subs.Data.dll
+Q:\Source code backups\MIMS20210808\Subs.XMLService\bin\Subs.Business.pdb
+Q:\Source code backups\MIMS20210808\Subs.XMLService\bin\Subs.Business.dll.config
+Q:\Source code backups\MIMS20210808\Subs.XMLService\bin\Subs.Data.pdb
+Q:\Source code backups\MIMS20210808\Subs.XMLService\bin\Subs.Data.dll.config
+Q:\Source code backups\MIMS20210808\Subs.XMLService\obj\Debug\Subs.XMLService.csproj.AssemblyReference.cache
+Q:\Source code backups\MIMS20210808\Subs.XMLService\obj\Debug\Subs.XMLService.csproj.CoreCompileInputs.cache
+Q:\Source code backups\MIMS20210808\Subs.XMLService\obj\Debug\Subs.XMLService.csproj.CopyComplete
+Q:\Source code backups\MIMS20210808\Subs.XMLService\obj\Debug\Subs.XMLService.dll
+Q:\Source code backups\MIMS20210808\Subs.XMLService\obj\Debug\Subs.XMLService.pdb
+C:\CSharp\MIMS20210808\Subs.XMLService\bin\Subs.XMLService.dll.config
+C:\CSharp\MIMS20210808\Subs.XMLService\bin\Subs.XMLService.dll
+C:\CSharp\MIMS20210808\Subs.XMLService\bin\Subs.XMLService.pdb
+C:\CSharp\MIMS20210808\Subs.XMLService\bin\Subs.Business.dll
+C:\CSharp\MIMS20210808\Subs.XMLService\bin\Subs.Data.dll
+C:\CSharp\MIMS20210808\Subs.XMLService\bin\Subs.Business.pdb
+C:\CSharp\MIMS20210808\Subs.XMLService\bin\Subs.Business.dll.config
+C:\CSharp\MIMS20210808\Subs.XMLService\bin\Subs.Data.pdb
+C:\CSharp\MIMS20210808\Subs.XMLService\bin\Subs.Data.dll.config
+C:\CSharp\MIMS20210808\Subs.XMLService\obj\Debug\Subs.XMLService.csproj.AssemblyReference.cache
+C:\CSharp\MIMS20210808\Subs.XMLService\obj\Debug\Subs.XMLService.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS20210808\Subs.XMLService\obj\Debug\Subs.XMLService.csproj.CopyComplete
+C:\CSharp\MIMS20210808\Subs.XMLService\obj\Debug\Subs.XMLService.dll
+C:\CSharp\MIMS20210808\Subs.XMLService\obj\Debug\Subs.XMLService.pdb

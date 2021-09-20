@@ -1,0 +1,495 @@
+C:\CSharp\MIMSMVC\MIMSMVC\bin\MIMSMVC.dll.config
+C:\CSharp\MIMSMVC\MIMSMVC\bin\MIMSMVC.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\MIMSMVC.pdb
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\csc.exe
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\csc.exe.config
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\csc.rsp
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\csi.exe
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\csi.exe.config
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\csi.rsp
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.AppContext.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Console.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.IO.Compression.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Net.Http.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Net.Sockets.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.ValueTuple.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Xml.XPath.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\vbc.exe
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\vbc.exe.config
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\vbc.rsp
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\VBCSCompiler.exe
+C:\CSharp\MIMSMVC\MIMSMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Antlr3.Runtime.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Newtonsoft.Json.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Subs.Business.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Subs.Data.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.Helpers.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.Mvc.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.Optimization.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.Razor.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.WebPages.Deployment.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.WebPages.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.WebPages.Razor.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\WebGrease.dll
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Subs.Business.pdb
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Subs.Business.dll.config
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Subs.Data.pdb
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Subs.Data.dll.config
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.Helpers.xml
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.Mvc.xml
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.Optimization.xml
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.Razor.xml
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.WebPages.xml
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.WebPages.Deployment.xml
+C:\CSharp\MIMSMVC\MIMSMVC\bin\System.Web.WebPages.Razor.xml
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Newtonsoft.Json.xml
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Antlr3.Runtime.pdb
+C:\CSharp\MIMSMVC\MIMSMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CSharp\MIMSMVC\MIMSMVC\obj\Debug\Subs.MVC.csproj.AssemblyReference.cache
+C:\CSharp\MIMSMVC\MIMSMVC\obj\Debug\Subs.MVC.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMSMVC\MIMSMVC\obj\Debug\Subs.MVC.csproj.CopyComplete
+C:\CSharp\MIMSMVC\MIMSMVC\obj\Debug\MIMSMVC.dll
+C:\CSharp\MIMSMVC\MIMSMVC\obj\Debug\MIMSMVC.pdb
+C:\CSharp\Subs.MVC\MIMSMVC\bin\MIMSMVC.dll.config
+C:\CSharp\Subs.MVC\MIMSMVC\bin\MIMSMVC.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\MIMSMVC.pdb
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\csc.exe
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\csc.exe.config
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\csc.rsp
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\csi.exe
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\csi.exe.config
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\csi.rsp
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.AppContext.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Console.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.IO.Compression.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Net.Http.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Net.Sockets.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.ValueTuple.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Xml.XPath.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\vbc.exe
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\vbc.exe.config
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\vbc.rsp
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\VBCSCompiler.exe
+C:\CSharp\Subs.MVC\MIMSMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Antlr3.Runtime.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Newtonsoft.Json.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Subs.Business.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Subs.Data.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.Helpers.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.Mvc.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.Optimization.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.Razor.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.WebPages.Deployment.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.WebPages.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.WebPages.Razor.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\WebGrease.dll
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Subs.Business.pdb
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Subs.Business.dll.config
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Subs.Data.pdb
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Subs.Data.dll.config
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.Helpers.xml
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.Mvc.xml
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.Optimization.xml
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.Razor.xml
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.WebPages.xml
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.WebPages.Deployment.xml
+C:\CSharp\Subs.MVC\MIMSMVC\bin\System.Web.WebPages.Razor.xml
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Newtonsoft.Json.xml
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Antlr3.Runtime.pdb
+C:\CSharp\Subs.MVC\MIMSMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CSharp\Subs.MVC\MIMSMVC\obj\Debug\Subs.MVC.csproj.AssemblyReference.cache
+C:\CSharp\Subs.MVC\MIMSMVC\obj\Debug\Subs.MVC.csproj.CoreCompileInputs.cache
+C:\CSharp\Subs.MVC\MIMSMVC\obj\Debug\Subs.MVC.csproj.CopyComplete
+C:\CSharp\Subs.MVC\MIMSMVC\obj\Debug\MIMSMVC.dll
+C:\CSharp\Subs.MVC\MIMSMVC\obj\Debug\MIMSMVC.pdb
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\MIMSMVC.dll.config
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\MIMSMVC.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\MIMSMVC.pdb
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\csc.exe
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\csc.exe.config
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\csc.rsp
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\csi.exe
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\csi.exe.config
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\csi.rsp
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.AppContext.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Collections.Immutable.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Console.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Globalization.Calendars.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.IO.Compression.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.IO.FileSystem.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Net.Http.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Net.Sockets.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Reflection.Metadata.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.ValueTuple.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Xml.XPath.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\vbc.exe
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\vbc.exe.config
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\vbc.rsp
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\VBCSCompiler.exe
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\roslyn\VBCSCompiler.exe.config
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Antlr3.Runtime.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Microsoft.Web.Infrastructure.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Newtonsoft.Json.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Subs.Business.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Subs.Data.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.Helpers.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.Mvc.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.Optimization.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.Razor.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.Deployment.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.Razor.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\WebGrease.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Subs.Business.pdb
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Subs.Business.dll.config
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Subs.Data.pdb
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Subs.Data.dll.config
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.Mvc.xml
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.Helpers.xml
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.Optimization.xml
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.Razor.xml
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.xml
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.Deployment.xml
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.Razor.xml
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Newtonsoft.Json.xml
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Antlr3.Runtime.pdb
+Q:\Source code backups\MIMS20210808\Subs.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Q:\Source code backups\MIMS20210808\Subs.MVC\obj\Debug\Subs.MVC.csproj.AssemblyReference.cache
+Q:\Source code backups\MIMS20210808\Subs.MVC\obj\Debug\Subs.MVC.csproj.CoreCompileInputs.cache
+Q:\Source code backups\MIMS20210808\Subs.MVC\obj\Debug\Subs.MVC.csproj.CopyComplete
+Q:\Source code backups\MIMS20210808\Subs.MVC\obj\Debug\MIMSMVC.dll
+Q:\Source code backups\MIMS20210808\Subs.MVC\obj\Debug\MIMSMVC.pdb
+C:\CSharp\MIMS20210808\Subs.MVC\bin\MIMSMVC.dll.config
+C:\CSharp\MIMS20210808\Subs.MVC\bin\MIMSMVC.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\MIMSMVC.pdb
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\csc.exe
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\csc.exe.config
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\csc.rsp
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\csi.exe
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\csi.exe.config
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\csi.rsp
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.AppContext.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Console.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.IO.Compression.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Net.Http.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Net.Sockets.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.ValueTuple.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\vbc.exe
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\vbc.exe.config
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\vbc.rsp
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\VBCSCompiler.exe
+C:\CSharp\MIMS20210808\Subs.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Antlr3.Runtime.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Newtonsoft.Json.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Subs.Business.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Subs.Data.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.Helpers.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.Mvc.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.Optimization.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.Razor.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.Razor.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\WebGrease.dll
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Subs.Business.pdb
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Subs.Business.dll.config
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Subs.Data.pdb
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Subs.Data.dll.config
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.Mvc.xml
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.Helpers.xml
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.Optimization.xml
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.Razor.xml
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.xml
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\CSharp\MIMS20210808\Subs.MVC\bin\System.Web.WebPages.Razor.xml
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Newtonsoft.Json.xml
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Antlr3.Runtime.pdb
+C:\CSharp\MIMS20210808\Subs.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CSharp\MIMS20210808\Subs.MVC\obj\Debug\Subs.MVC.csproj.AssemblyReference.cache
+C:\CSharp\MIMS20210808\Subs.MVC\obj\Debug\Subs.MVC.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS20210808\Subs.MVC\obj\Debug\Subs.MVC.csproj.CopyComplete
+C:\CSharp\MIMS20210808\Subs.MVC\obj\Debug\MIMSMVC.dll
+C:\CSharp\MIMS20210808\Subs.MVC\obj\Debug\MIMSMVC.pdb
+C:\CSharp\MIMS4\Subs.MVC\obj\Debug\Subs.MVC.csproj.AssemblyReference.cache
+C:\CSharp\MIMS4\Subs.MVC\obj\Debug\Subs.MVC.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS4\Subs.MVC\bin\MIMSMVC.dll.config
+C:\CSharp\MIMS4\Subs.MVC\bin\MIMSMVC.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\MIMSMVC.pdb
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\csc.exe
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\csc.exe.config
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\csc.rsp
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\csi.exe
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\csi.exe.config
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\csi.rsp
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.AppContext.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Console.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.IO.Compression.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Net.Http.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Net.Sockets.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.ValueTuple.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\vbc.exe
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\vbc.exe.config
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\vbc.rsp
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\VBCSCompiler.exe
+C:\CSharp\MIMS4\Subs.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\CSharp\MIMS4\Subs.MVC\bin\Antlr3.Runtime.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Logging.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Options.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Primitives.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Newtonsoft.Json.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.Extensions.Logging.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.Formatting.Compact.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.Sinks.File.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.Sinks.PeriodicBatching.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.Sinks.Seq.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Subs.Business.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Subs.Data.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Subs4.Presentation.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Buffers.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Memory.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Numerics.Vectors.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.ValueTuple.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.Helpers.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.Mvc.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.Optimization.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.Razor.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.WebPages.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.WebPages.Razor.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\WebGrease.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\FlowDocumentConverter.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\PdfSharp.Xps.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Spire.Pdf.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\PdfSharp-WPF.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Spire.License.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.mshtml.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Subs.Business.pdb
+C:\CSharp\MIMS4\Subs.MVC\bin\Subs.Business.dll.config
+C:\CSharp\MIMS4\Subs.MVC\bin\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs.MVC\bin\Subs.Data.dll.config
+C:\CSharp\MIMS4\Subs.MVC\bin\Subs4.Presentation.pdb
+C:\CSharp\MIMS4\Subs.MVC\bin\Subs4.Presentation.dll.config
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Logging.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Options.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Primitives.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.Extensions.Logging.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.Formatting.Compact.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.Sinks.File.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.Sinks.PeriodicBatching.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Serilog.Sinks.Seq.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Buffers.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Memory.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Numerics.Vectors.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.ValueTuple.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.Mvc.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.Helpers.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.Optimization.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.Razor.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.WebPages.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Web.WebPages.Razor.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Newtonsoft.Json.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Antlr3.Runtime.pdb
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Spire.Pdf.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Spire.License.xml
+C:\CSharp\MIMS4\Subs.MVC\obj\Debug\Subs.MVC.csproj.CopyComplete
+C:\CSharp\MIMS4\Subs.MVC\obj\Debug\MIMSMVC.dll
+C:\CSharp\MIMS4\Subs.MVC\obj\Debug\MIMSMVC.pdb
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Text.Encodings.Web.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Text.Json.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Threading.Tasks.Extensions.dll
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Text.Encodings.Web.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Text.Json.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\System.Threading.Tasks.Extensions.xml
+C:\CSharp\MIMS4\Subs.MVC\bin\appsettings.json

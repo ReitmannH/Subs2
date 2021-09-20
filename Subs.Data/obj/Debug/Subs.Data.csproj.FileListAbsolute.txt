@@ -1,0 +1,152 @@
+E:\MIMS4\Subs.Data\bin\Debug\SubscriptionsAndPayments.rdlc
+E:\MIMS4\Subs.Data\bin\Debug\Subs.Data.dll.config
+E:\MIMS4\Subs.Data\bin\Debug\Subs.Data.dll
+E:\MIMS4\Subs.Data\bin\Debug\Subs.Data.pdb
+E:\MIMS4\Subs.Data\bin\Debug\Microsoft.CSharp.dll
+E:\MIMS4\Subs.Data\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\MIMS4\Subs.Data\bin\Debug\System.Data.DataSetExtensions.dll
+E:\MIMS4\Subs.Data\bin\Debug\System.Data.dll
+E:\MIMS4\Subs.Data\bin\Debug\System.Data.Linq.dll
+E:\MIMS4\Subs.Data\bin\Debug\System.dll
+E:\MIMS4\Subs.Data\bin\Debug\System.Drawing.dll
+E:\MIMS4\Subs.Data\bin\Debug\System.Windows.Forms.dll
+E:\MIMS4\Subs.Data\bin\Debug\System.Xml.dll
+E:\MIMS4\Subs.Data\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs.Data\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs.Data\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs.Data\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs.Data\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs.Data\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs.Data\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs.Data\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs.Data\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs.Data\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\MIMS4\Subs.Data\obj\Debug\Subs.Data.csprojAssemblyReference.cache
+E:\MIMS4\Subs.Data\obj\Debug\Subs.Data.csproj.CoreCompileInputs.cache
+E:\MIMS4\Subs.Data\obj\Debug\Subs.Data.csproj.CopyComplete
+E:\MIMS4\Subs.Data\obj\Debug\Subs.Data.dll
+E:\MIMS4\Subs.Data\obj\Debug\Subs.Data.pdb
+C:\CSharp2017\MIMS4\Subs.Data\obj\Debug\Subs.Data.csproj.CoreCompileInputs.cache
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\SubscriptionsAndPayments.rdlc
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\Subs.Data.dll.config
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\Subs.Data.dll
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\Subs.Data.pdb
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\Microsoft.CSharp.dll
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Data.DataSetExtensions.dll
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Data.dll
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Data.Linq.dll
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.dll
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Drawing.dll
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Windows.Forms.dll
+C:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Xml.dll
+C:\CSharp2017\MIMS4\Subs.Data\obj\Debug\Subs.Data.dll
+C:\CSharp2017\MIMS4\Subs.Data\obj\Debug\Subs.Data.pdb
+D:\CSharp2017\MIMS4\Subs.Data\obj\Debug\Subs.Data.csproj.CoreCompileInputs.cache
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\SubscriptionsAndPayments.rdlc
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\Subs.Data.dll.config
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\Subs.Data.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\Subs.Data.pdb
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\Microsoft.CSharp.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Data.DataSetExtensions.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Data.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Data.Linq.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Drawing.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Windows.Forms.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\System.Xml.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs.Data\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\CSharp2017\MIMS4\Subs.Data\obj\Debug\Subs.Data.csproj.CopyComplete
+D:\CSharp2017\MIMS4\Subs.Data\obj\Debug\Subs.Data.dll
+D:\CSharp2017\MIMS4\Subs.Data\obj\Debug\Subs.Data.pdb
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\Subs.Data.dll.config
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\Subs.Data.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\Subs.Data.pdb
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\Microsoft.CSharp.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\Microsoft.SqlServer.Types.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\System.Data.DataSetExtensions.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\System.Data.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\System.Data.Linq.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\System.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\System.Drawing.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\System.Windows.Forms.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\System.Xml.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\obj\Debug\Subs.Data.csproj.AssemblyReference.cache
+Q:\Source code backups\MIMS20210808\Subs.Data\obj\Debug\Subs.Data.csproj.CoreCompileInputs.cache
+Q:\Source code backups\MIMS20210808\Subs.Data\obj\Debug\Subs.Data.csproj.CopyComplete
+Q:\Source code backups\MIMS20210808\Subs.Data\obj\Debug\Subs.Data.dll
+Q:\Source code backups\MIMS20210808\Subs.Data\obj\Debug\Subs.Data.pdb
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\Subs.Data.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\Subs.Data.pdb
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\Microsoft.CSharp.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\System.Data.DataSetExtensions.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\System.Data.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\System.Data.Linq.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\System.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\System.Drawing.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\System.Windows.Forms.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\System.Xml.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs.Data\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS20210808\Subs.Data\obj\Debug\Subs.Data.csproj.AssemblyReference.cache
+C:\CSharp\MIMS20210808\Subs.Data\obj\Debug\Subs.Data.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS20210808\Subs.Data\obj\Debug\Subs.Data.csproj.CopyComplete
+C:\CSharp\MIMS20210808\Subs.Data\obj\Debug\Subs.Data.dll
+C:\CSharp\MIMS20210808\Subs.Data\obj\Debug\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\Subs.Data.dll.config
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\Subs.Data.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\Microsoft.CSharp.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\System.Data.DataSetExtensions.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\System.Data.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\System.Data.Linq.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\System.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\System.Drawing.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\System.Windows.Forms.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\System.Xml.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs.Data\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\CSharp\MIMS4\Subs.Data\obj\Debug\Subs.Data.csproj.CoreCompileInputs.cache
+C:\CSharp\MIMS4\Subs.Data\obj\Debug\Subs.Data.csproj.CopyComplete
+C:\CSharp\MIMS4\Subs.Data\obj\Debug\Subs.Data.dll
+C:\CSharp\MIMS4\Subs.Data\obj\Debug\Subs.Data.pdb
+C:\CSharp\MIMS4\Subs.Data\obj\Debug\Subs.Data.csproj.AssemblyReference.cache
